@@ -1,6 +1,6 @@
 # Part 1: The Edge of Infinity
 
-The party has restarted Suprantir, the ancient forges run hot. This is good, as Deterra is preparing for a siege.
+The party has restarted [[Suprantir]], the ancient forges run hot. This is good, as Deterra is preparing for a siege.
 
   
 

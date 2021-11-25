@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Campaign/Final Plot.md",
+            "file": "New Campaign/Untitled.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Campaign/Final Plot.md",
+            "file": "New Campaign/Untitled.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Campaign/Final Plot.md",
+                "file": "New Campaign/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,9 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "New Campaign/Untitled.md",
     "Old Campaign/Final Plot.md",
-    "Untitled 1.md",
-    "Untitled.md"
+    "Old Campaign/Suprantir.md",
+    "Untitled 1.md"
   ]
 }
