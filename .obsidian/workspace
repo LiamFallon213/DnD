@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "931d796c4ce90eff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Old Campaign/Final Plot.md",
+            "mode": "source"
+          }
+        },
+        "group": "5443a4d5249638f7"
+      },
+      {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+            "file": "Old Campaign/Final Plot.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "5443a4d5249638f7"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Old Campaign/Final Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9757d3154c8b42c4",
+  "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Old Campaign/Final Plot.md",
+    "Untitled 1.md",
     "Untitled.md"
   ]
 }
