@@ -13,6 +13,9 @@ The current idea is not to have some all powerful BBEG, but instead to have a ve
 
 Ideally he's just a commoner, or maybe a noble. Not a strong stat block, but his connections and political power keep him on top. Instead of manipulating through arcane or psionic means like Arothos, he instead manipulates the old fasion way.
 
+
+COULD BE ANOTHER META AWARE CHARACTER: Oh this ones good
+
 ***
 
 ## Idea 2
