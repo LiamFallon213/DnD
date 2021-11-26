@@ -92,17 +92,27 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "bac4b16a45f6b001",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "9757d3154c8b42c4",
+  "active": "931d796c4ce90eff",
   "lastOpenFiles": [
     "Adventurers Guild.md",
+    "Untitled 1.md",
     "Overarching plot.md",
     "Theodore Ceaser.md",
     "Plot Pre Campaign Planning.md",
@@ -110,7 +120,6 @@
     "Untitled.md",
     "The Scouring.md",
     "3.md",
-    "Old Campaign/Final Plot.md",
-    "Old Campaign/Heart of Time.md"
+    "Old Campaign/Final Plot.md"
   ]
 }
