@@ -1,7 +1,7 @@
 # BBEG
 
-**Name:** TBD
-
+**Name:** [[Theodore Ceaser]]
+IDEA 1
 ***
 ## Idea 1
 

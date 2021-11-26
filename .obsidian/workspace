@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BBEG.md",
+            "file": "Plot Pre Campaign Planning.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BBEG.md",
+            "file": "Plot Pre Campaign Planning.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBEG.md",
+                "file": "Plot Pre Campaign Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "BBEG.md",
-    "Pre Campaign Setting Notes.md",
     "Plot Pre Campaign Planning.md",
+    "Pre Campaign Setting Notes.md",
+    "Untitled.md",
+    "Theodore Ceaser.md",
     "The Scouring.md",
     "3.md",
     "Old Campaign/Final Plot.md",
     "Old Campaign/Heart of Time.md",
     "Old Campaign/Kaleb.md",
-    "Old Campaign/Qedull.md",
-    "Old Campaign/Arothos.md"
+    "Old Campaign/Qedull.md"
   ]
 }
