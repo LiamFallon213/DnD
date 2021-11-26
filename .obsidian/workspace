@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre Campaign Setting Notes.md",
+            "file": "Plot Pre Campaign Planning.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre Campaign Setting Notes.md",
+            "file": "Plot Pre Campaign Planning.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre Campaign Setting Notes.md",
+                "file": "Plot Pre Campaign Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Plot Pre Campaign Planning.md",
     "Pre Campaign Setting Notes.md",
     "3.md",
     "Old Campaign/Final Plot.md",
