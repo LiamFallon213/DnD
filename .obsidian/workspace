@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heart of Time.md",
+            "file": "Old Campaign/Final Plot.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heart of Time.md",
-            "mode": "source"
+            "file": "Old Campaign/Final Plot.md",
+            "mode": "preview"
           }
         },
         "group": "5443a4d5249638f7"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heart of Time.md",
+                "file": "Old Campaign/Final Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Heart of Time.md",
     "Old Campaign/Final Plot.md",
+    "Heart of Time.md",
     "Kaleb.md",
     "Qedull.md",
     "Arothos.md",

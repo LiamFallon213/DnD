@@ -19,7 +19,6 @@ As they continue in, it seems unnaturally unguarded.
 Inside Lapis hears a familiar voice. Kaleb (her lost lover).
 
 They find him chained up in a cell, inside what looks to be a POW prison. (A good arcana or perception check tells them they went through a Gate into the Far Realm.)
-
   
 
 They break Kaleb out (a commoner). He embraces Lapis, and as he’s about to say something, a green flash shoots out of the dark, and Petrifies Kaleb. Lapis feels him turn to stone in her arms rapidly, then a green flash as the statue is disintegrated. All that is left is a locket with Lapis’s face inside, and an inscription. I will see you again, my love. I’m sorry.
