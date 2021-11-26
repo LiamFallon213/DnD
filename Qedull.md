@@ -7,4 +7,4 @@ Personality: Narcissist
 
 Orginizations: The Abberant Army
 
-Allies: [[Arothos]]
+Allies: [[Arothos]]  *boss*.
