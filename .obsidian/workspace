@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Campaign/Final Plot.md",
+            "file": "New Campaign/Main Doc.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Campaign/Final Plot.md",
+            "file": "New Campaign/Main Doc.md",
             "mode": "preview"
           }
         },
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Campaign/Final Plot.md",
+                "file": "New Campaign/Main Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,12 +101,12 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Old Campaign/Final Plot.md",
-    "Heart of Time.md",
-    "Kaleb.md",
-    "Qedull.md",
-    "Arothos.md",
     "New Campaign/Main Doc.md",
+    "Old Campaign/Final Plot.md",
+    "Old Campaign/Heart of Time.md",
+    "Old Campaign/Kaleb.md",
+    "Old Campaign/Qedull.md",
+    "Old Campaign/Arothos.md",
     "Old Campaign/Suprantir.md",
     "Untitled 1.md"
   ]
