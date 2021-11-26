@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Qedull.md",
+            "file": "Arothos.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Qedull.md",
-            "mode": "preview"
+            "file": "Arothos.md",
+            "mode": "source"
           }
         },
         "group": "5443a4d5249638f7"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qedull.md",
+                "file": "Arothos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Arothos.md",
     "Qedull.md",
     "Old Campaign/Final Plot.md",
     "New Campaign/Main Doc.md",
