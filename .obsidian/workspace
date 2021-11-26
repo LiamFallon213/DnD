@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Overarching plot.md",
+            "file": "Adventurers Guild.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Overarching plot.md",
+            "file": "Adventurers Guild.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overarching plot.md",
+                "file": "Adventurers Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "931d796c4ce90eff",
+  "active": "9757d3154c8b42c4",
   "lastOpenFiles": [
+    "Adventurers Guild.md",
     "Overarching plot.md",
     "Theodore Ceaser.md",
     "Plot Pre Campaign Planning.md",
@@ -110,7 +111,6 @@
     "The Scouring.md",
     "3.md",
     "Old Campaign/Final Plot.md",
-    "Old Campaign/Heart of Time.md",
-    "Old Campaign/Kaleb.md"
+    "Old Campaign/Heart of Time.md"
   ]
 }
