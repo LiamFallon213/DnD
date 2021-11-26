@@ -1,6 +1,8 @@
-**Name:** Emperor Theodore the Great
+**Name:**  Theodore Ceaser
 
-**Position:** Empror of the Roman Empire
+**Relevent Arc:** 3 - Final boss
+
+**Position:** Shadow Emperor of the Roman Empire
 
 **Age:** 32
 
