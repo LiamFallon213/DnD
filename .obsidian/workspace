@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Campaign/Pre Campaign Setting Notes.md",
+            "file": "Pre Campaign Setting Notes.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Campaign/Pre Campaign Setting Notes.md",
+            "file": "Pre Campaign Setting Notes.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Campaign/Pre Campaign Setting Notes.md",
+                "file": "Pre Campaign Setting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "New Campaign/Pre Campaign Setting Notes.md",
+    "Pre Campaign Setting Notes.md",
+    "3.md",
     "Old Campaign/Final Plot.md",
     "Old Campaign/Heart of Time.md",
     "Old Campaign/Kaleb.md",

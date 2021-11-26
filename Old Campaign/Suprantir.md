@@ -1,1 +1,0 @@
-Suprantir is the ancient city inhabited by wizards that recently had it's forge restarted
