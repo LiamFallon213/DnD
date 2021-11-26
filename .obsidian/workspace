@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Campaign/Final Plot.md",
+            "file": "Qedull.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Campaign/Final Plot.md",
-            "mode": "preview"
+            "file": "Qedull.md",
+            "mode": "source"
           }
         },
         "group": "5443a4d5249638f7"
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Campaign/Final Plot.md",
+                "file": "Qedull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Qedull.md",
     "Old Campaign/Final Plot.md",
     "New Campaign/Main Doc.md",
     "Old Campaign/Suprantir.md",
