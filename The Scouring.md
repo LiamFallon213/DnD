@@ -1,0 +1,1 @@
+An event that happens every X (long time) years, it is like a full reset of civilization.

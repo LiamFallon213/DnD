@@ -18,3 +18,10 @@ Ideally he's just a commoner, or maybe a noble. Not a strong stat block, but his
 ## Idea 2
 
 Lean into the meta aspect and go for some cliche like a demon lord. A [Balor](https://5e.tools/bestiary.html#balor_mm,fbmt:sand~b1~b0) or the like could work quite well for this. Ideally it should be a hard fight at the end of the campaign ~ level 15.
+***
+
+## Idea 3
+
+Have more of a Man V Nature story, where the party needs to fight against some event. [[The Scouring]] is a good option for this. In this case there is no clear BBEG but a number of objectives the party must complete.
+
+*^ Might work better for a less continous story, like this is going for. Could also have some intresting global warming paralells.*
