@@ -30,7 +30,7 @@ Qedull enters the room with backup. (FIGHT ENSUES)
 
   
 
-When [[Qedull]] is defeated, the pocket dimension begins to collapse. When it does, Kaleb's ashes are spread across the astral sea. He can not be resurrected.
+When [[Qedull]] is defeated, the pocket dimension begins to collapse. When it does, [[Kaleb]]'s ashes are spread across the astral sea. He can not be resurrected.
 
   
 

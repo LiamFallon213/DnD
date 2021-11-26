@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Arothos.md",
+            "file": "Kaleb.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Arothos.md",
-            "mode": "preview"
+            "file": "Kaleb.md",
+            "mode": "source"
           }
         },
         "group": "5443a4d5249638f7"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arothos.md",
+                "file": "Kaleb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +102,10 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Arothos.md",
-    "Qedull.md",
+    "Kaleb.md",
     "Old Campaign/Final Plot.md",
+    "Qedull.md",
+    "Arothos.md",
     "New Campaign/Main Doc.md",
     "Old Campaign/Suprantir.md",
     "Untitled 1.md"
