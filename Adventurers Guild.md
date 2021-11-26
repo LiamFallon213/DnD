@@ -3,10 +3,13 @@ The Adventurers Guild is an international organization that is omnipresent acros
 # Rankings
 | Ranking    | Level eq | Renown               | Realistic Threats to face | Examples                                                               |
 | ---------- | -------- | -------------------- | ------------------------- | ---------------------------------------------------------------------- |
-| Copper     | 1-2      | Local adventurers    | Building level            | Rat extermination Small goblin hunts  Pest control                     |
-| Bronze     | 3-5      | Local adventurers    | Small village or camp     | Medium goblin nests  Kobold incursions Low danger criminals            |
-| Silver     | 5-6      | Local heroes         | Village level             | Large goblin nests  Major kobold incursions Highly dangerous criminals |
-| Gold       | 7-8      | National adventurers | City level                | Small dragon, [[Orc Droll]],                                           |
-| Amethyst   | 8-10     | National adventurers | Metropolis level          | Small army, Adult Dragon                                               |
-| Mythril    | 10-12    | Global heroes        | Regional                  | Large Army, Ancient Dragon                                             |
-| Adamantine | 13-15    | Legendary Hero       | Global                    | Greatwyrm                                                              |
+| Copper     | 1-3      | Local adventurers    | Building level            | Rat extermination Small goblin hunts  Pest control                     |
+| Bronze     | 4-5      | Local adventurers    | Small village or camp     | Medium goblin nests  Kobold incursions Low danger criminals            |
+| Silver     | 6-7      | Local heroes         | Village level             | Large goblin nests  Major kobold incursions Highly dangerous criminals |
+| Gold       | 8-10     | National adventurers | City level                | Small dragon, [[Orc Droll]],                                           |
+| Amethyst   | 10-13    | National adventurers | Metropolis level          | Small army, Adult Dragon                                               |
+| Mythril    | 13-15    | Global heroes        | Regional                  | Large Army, Ancient Dragon                                             |
+| Adamantine | 15+      | Legendary Hero       | Global                    | Greatwyrm                                                              |
+
+^094968
+

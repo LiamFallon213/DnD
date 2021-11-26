@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventurers Guild.md",
+            "file": "Overarching plot.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventurers Guild.md",
+            "file": "Overarching plot.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventurers Guild.md",
+                "file": "Overarching plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +111,9 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Overarching plot.md",
     "Adventurers Guild.md",
     "Untitled 1.md",
-    "Overarching plot.md",
     "Theodore Ceaser.md",
     "Plot Pre Campaign Planning.md",
     "Pre Campaign Setting Notes.md",
