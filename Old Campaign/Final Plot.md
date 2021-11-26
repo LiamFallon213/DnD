@@ -34,7 +34,7 @@ When [[Qedull]] is defeated, the pocket dimension begins to collapse. When it do
 
   
 
-They go to grab the Heart of Time, when any of them touch it, the alternate realities section happens.
+They go to grab the [[Heart of Time]], when any of them touch it, the alternate realities section happens.
 
   
 
