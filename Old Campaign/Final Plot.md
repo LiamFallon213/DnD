@@ -71,6 +71,8 @@ Kass wakes up in what looks to be a small hut in the Mushroom Biome somewhere. H
 
 TLDR: Best ending
 
+When Kass breaks out of this, his sword will exault.
+
 ## Lapis
 
 Lapis wakes up in another timeline, one where Kaleb never betrayed her and abandoned her.
