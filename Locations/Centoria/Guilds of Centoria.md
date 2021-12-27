@@ -4,7 +4,7 @@ After the [[Revolution of 1819]], and the resulting creation of the [[Council of
 | ------------------------------ | ----- | ------------------- |
 | [[Centoria Farmers Union]]     | 35    | Y                   |
 | [[Centoria Smithing Guild]]    | 13    | N                   |
-| [[Centoria Carpenters Guild]]  | 12    | Y                   |
+| [[Centoria Carpenters Guild]]  | 12    | N                   |
 | [[Centoria Arcanists Guild]]   | 10    | Y                   |
 | [[Centoria Tailors Guild]]     | 10    | N                   |
 | [[Centoria Soldiers Guild]]    | 8     | N                   |
