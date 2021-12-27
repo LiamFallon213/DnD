@@ -5,11 +5,11 @@ After the [[Revolution of 1819]], and the resulting creation of the [[Council of
 | [[Centoria Farmers Union]]     | 35    | Y                   |
 | [[Centoria Smithing Guild]]    | 13    | N                   |
 | [[Centoria Carpenters Guild]]  | 12    | Y                   |
-| [[Centoria Arcanists Guild]]   | 10    |                     |
-| [[Centoria Tailors Guild]]     | 10    |                     |
-| [[Centoria Soldiers Guild]]    | 8     |                     |
-| [[Centoria Artificiers Guild]] | 8     |                     |
-| [[Centoria Faithmens Guild]]   | 4     | Y                    |
+| [[Centoria Arcanists Guild]]   | 10    | Y                   |
+| [[Centoria Tailors Guild]]     | 10    | N                   |
+| [[Centoria Soldiers Guild]]    | 8     | N                   |
+| [[Centoria Artificiers Guild]] | 8     | Y                   |
+| [[Centoria Faithmens Guild]]   | 4     | Y                   |
 
 | Guild Names                    | [[Centoria Smithing Guild]] | [[Centoria Tailors Guild]] | [[Centoria Carpenters Guild]] | [[Centoria Arcanists Guild]] | [[Centoria Artificiers Guild]] | [[Centoria Soldiers Guild]] | [[Centoria Farmers Union]] | [[Centoria Faithmens Guild]] |
 | ------------------------------ | --------------------------- | -------------------------- | ----------------------------- | ---------------------------- | ------------------------------ | --------------------------- | -------------------------- | ---------------------------- |
