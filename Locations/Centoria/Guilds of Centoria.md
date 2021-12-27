@@ -1,13 +1,15 @@
 After the [[Revolution of 1819]], and the resulting creation of the [[Council of Centoria]]. A number of guilds and unions became prominent factions within the city
 
- [[Centoria Smithing Guild]]
- [[Centoria Tailors Guild]]
-  [[Centoria Carpenters Guild]]
- [[Centoria Arcanists Guild]]
- [[Centoria Artificiers Guild]]
- [[Centoria Soldiers Guild]]
- [[Centoria Farmers Union]]
-[[Centoria Faithmens Guild]] 
+| Guild Name                     | Seats |
+| ------------------------------ | ----- |
+| [[Centoria Smithing Guild]]    | 15    |
+| [[Centoria Tailors Guild]]     | 10     |
+| [[Centoria Carpenters Guild]]  | 10    |
+| [[Centoria Arcanists Guild]]   | 7     |
+| [[Centoria Artificiers Guild]] | 6     |
+| [[Centoria Soldiers Guild]]    | 5     |
+| [[Centoria Farmers Union]]     | 35    |
+| [[Centoria Faithmens Guild]]   | 4     |
 
 | Guild Names                    | [[Centoria Smithing Guild]] | [[Centoria Tailors Guild]] | [[Centoria Carpenters Guild]] | [[Centoria Arcanists Guild]] | [[Centoria Artificiers Guild]] | [[Centoria Soldiers Guild]] | [[Centoria Farmers Union]] | [[Centoria Faithmens Guild]] |
 | ------------------------------ | --------------------------- | -------------------------- | ----------------------------- | ---------------------------- | ------------------------------ | --------------------------- | -------------------------- | ---------------------------- |
