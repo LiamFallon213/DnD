@@ -13,6 +13,7 @@
 **Council Members**:
  [[Centoria Smithing Guild]]
  [[Centoria Tailors Guild]]
+  [[Centoria Carpenters Guild]]
  [[Centoria Arcanists Guild]]
  [[Centoria Artificiers Guild]]
  [[Centoria Soldiers Guild]]
@@ -21,7 +22,9 @@
 
 **Prominent factions without a council presence**:
 [[Church of Lumos]]
+[[Church of Arcanas]]
 [[Adventurers Union]]
+[[Theives Guild]] (Unofficial)
 
 
 

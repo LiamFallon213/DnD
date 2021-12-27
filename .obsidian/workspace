@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Centoria.md",
+            "file": "Locations/Centoria/Guilds of Centoria.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Centoria.md",
-            "mode": "preview"
+            "file": "Locations/Centoria/Guilds of Centoria.md",
+            "mode": "source"
           }
         },
         "group": "5443a4d5249638f7"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Centoria.md",
+                "file": "Locations/Centoria/Guilds of Centoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,20 +105,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 100
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Locations/Centoria.md",
+    "Locations/Centoria/Guilds of Centoria.md",
+    "Locations/Centoria/Centoria.md",
+    "Locations/Centoria/Centoria Smithing Guild.md",
     "Directories/NPC Head Directory.md",
     "Overarching plot.md",
     "Pre Campaign Setting Notes.md",
     "The Scouring.md",
     "Theodore Ceaser.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "Adventurers Guild.md",
-    "Plot Pre Campaign Planning.md"
+    "Untitled 1.md"
   ]
 }
