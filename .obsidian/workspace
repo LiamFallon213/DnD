@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Overarching plot.md",
+            "file": "Directories/NPC Head Directory.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Overarching plot.md",
+            "file": "Directories/NPC Head Directory.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overarching plot.md",
+                "file": "Directories/NPC Head Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Directories/NPC Head Directory.md",
     "Overarching plot.md",
-    "Adventurers Guild.md",
-    "Untitled 1.md",
-    "Theodore Ceaser.md",
-    "Plot Pre Campaign Planning.md",
     "Pre Campaign Setting Notes.md",
-    "Untitled.md",
     "The Scouring.md",
-    "3.md",
-    "Old Campaign/Final Plot.md"
+    "Theodore Ceaser.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Adventurers Guild.md",
+    "Plot Pre Campaign Planning.md",
+    "3.md"
   ]
 }
