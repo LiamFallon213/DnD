@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Directories/NPC Head Directory.md",
+            "file": "Locations/Centoria.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Directories/NPC Head Directory.md",
+            "file": "Locations/Centoria.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directories/NPC Head Directory.md",
+                "file": "Locations/Centoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Locations/Centoria.md",
     "Directories/NPC Head Directory.md",
     "Overarching plot.md",
     "Pre Campaign Setting Notes.md",
@@ -118,7 +119,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "Adventurers Guild.md",
-    "Plot Pre Campaign Planning.md",
-    "3.md"
+    "Plot Pre Campaign Planning.md"
   ]
 }

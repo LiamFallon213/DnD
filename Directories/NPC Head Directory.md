@@ -1,2 +1,8 @@
 # Friendly NPC's
-[[Alexander Smithson]]: Libraryian in [[Centoria]]
+[[Alexander Arcson]]: Librarian and arcane advisor for the council of [[Centoria]].
+
+
+
+
+
+
