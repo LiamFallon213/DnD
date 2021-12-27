@@ -1,13 +1,22 @@
 # Centoria
 
- Population: 37,000
+ **Population:** 37,000
 
- Government Structure: Syndicalism
+** Government Structure:** Syndicalism
 
- Prominent Races: 
- - Human (70%)
+**Prominent Races:** 
+- Human (70%)
 - Dwarf (20%)
-- Dragon
+- Elf (5%)
+- Other (5%)
+
+**Prominent Factions**:
+- [[Centoria Smithing Guild]]
+- [[Centoria Tailors Guild]]
+- [[Centoria Arcanists Guild]]
+- [[Centoria Artificiers Guild]]
+- [[Adventurers Union]]
+- 
 
 
 
