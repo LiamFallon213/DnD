@@ -12,7 +12,9 @@
 
 **Goals:** He wants to become the worlds emperor
 
-**M
+**Motivations:** Was a slave when a child, wants to get to a position where no one is above him. Believes he was chosen to "save" the people of this world. 
+
+
  
 
 			

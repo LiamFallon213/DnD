@@ -9,11 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jupiter Ceaser.md",
+            "file": "NPC's/Jupiter Ceaser.md",
             "mode": "source"
           }
         },
-        "group": "5443a4d5249638f7"
+        "group": "6249b2daa2f11bb6"
       },
       {
         "id": "9757d3154c8b42c4",
@@ -21,11 +21,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jupiter Ceaser.md",
+            "file": "NPC's/Jupiter Ceaser.md",
             "mode": "preview"
           }
         },
-        "group": "5443a4d5249638f7"
+        "group": "6249b2daa2f11bb6"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jupiter Ceaser.md",
+                "file": "NPC's/Jupiter Ceaser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Jupiter Ceaser.md",
+    "NPC's/Jupiter Ceaser.md",
     "Locations/Centoria/Guilds of Centoria.md",
     "Locations/Centoria/Centoria Smithing Guild.md",
     "Locations/Centoria/Centoria.md",
