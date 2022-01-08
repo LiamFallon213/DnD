@@ -14,7 +14,9 @@
 
 # Backstory:
 
-**Born:** October 27th, 1942
+Julius was born in Cheyenne, Wy, on October 27th, 1942. 
+
+
 
 
 Came from an alternate timeline, where the Cuban Missile Crisis went nuclear. 

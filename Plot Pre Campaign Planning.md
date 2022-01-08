@@ -1,6 +1,6 @@
 # BBEG
 
-**Name:** [[Jupiter Augustus]]
+**Name:** [[Julius Smithson]]
 IDEA 1
 ***
 ## Idea 1

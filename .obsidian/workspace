@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Jupiter Augustus.md",
+            "file": "NPC's/Julius Smithson.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Jupiter Augustus.md",
+            "file": "NPC's/Julius Smithson.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Jupiter Augustus.md",
+                "file": "NPC's/Julius Smithson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "e017d9270b751709",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -109,7 +117,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "NPC's/Jupiter Augustus.md",
+    "NPC's/Julius Smithson.md",
     "Locations/Centoria/Guilds of Centoria.md",
     "Locations/Centoria/Centoria Smithing Guild.md",
     "Locations/Centoria/Centoria.md",
