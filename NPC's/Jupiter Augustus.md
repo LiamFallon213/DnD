@@ -12,7 +12,13 @@
 
 **Goals:** He wants to become the worlds emperor
 
-**Motivations:** Was a slave when a child, wants to get to a position where no one is above him. Believes he was chosen to "save" the people of this world. 
+# Backstory:
+
+**Born:** October 27th, 1942
+
+
+Came from an alternate timeline, where the Cuban Missile Crisis went nuclear. 
+
 
 
  

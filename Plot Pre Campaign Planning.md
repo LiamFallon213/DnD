@@ -1,6 +1,6 @@
 # BBEG
 
-**Name:** [[Jupiter Ceaser]]
+**Name:** [[Jupiter Augustus]]
 IDEA 1
 ***
 ## Idea 1
