@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Julius Smithson.md",
+            "file": "NPC's/Julius Franklin.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Julius Smithson.md",
+            "file": "NPC's/Julius Franklin.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Julius Smithson.md",
+                "file": "NPC's/Julius Franklin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "NPC's/Julius Smithson.md",
+    "NPC's/Julius Franklin.md",
     "Locations/Centoria/Guilds of Centoria.md",
     "Locations/Centoria/Centoria Smithing Guild.md",
     "Locations/Centoria/Centoria.md",

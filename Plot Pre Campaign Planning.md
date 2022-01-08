@@ -1,6 +1,6 @@
 # BBEG
 
-**Name:** [[Julius Smithson]]
+**Name:** [[Julius Franklin]]
 IDEA 1
 ***
 ## Idea 1
