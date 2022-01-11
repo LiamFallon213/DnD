@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Centoria.md",
+            "file": "Locations/Dorn/Centoria/Church of Yama.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Centoria.md",
-            "mode": "preview"
+            "file": "Locations/Dorn/Centoria/Church of Yama.md",
+            "mode": "source"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dorn/Centoria/Centoria.md",
+                "file": "Locations/Dorn/Centoria/Church of Yama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Locations/Dorn/Centoria/Church of Yama.md",
     "Locations/Dorn/Centoria/Centoria.md",
     "Locations/Dorn/The Federation of Dorn.md",
     "NPC's/Julius Franklin.md",
@@ -125,7 +126,6 @@
     "Locations/Dorn/Centoria/Centoria Farmers Union.md",
     "Directories/NPC Head Directory.md",
     "Overarching plot.md",
-    "Pre Campaign Setting Notes.md",
-    "The Scouring.md"
+    "Pre Campaign Setting Notes.md"
   ]
 }
