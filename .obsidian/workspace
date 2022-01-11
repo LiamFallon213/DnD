@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/The Federation of Dorn.md",
+            "file": "Locations/Dorn/Centoria/Centoria.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/The Federation of Dorn.md",
+            "file": "Locations/Dorn/Centoria/Centoria.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/The Federation of Dorn.md",
+                "file": "Locations/Dorn/Centoria/Centoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,12 +117,12 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "NPC's/The Federation of Dorn.md",
+    "Locations/Dorn/Centoria/Centoria.md",
+    "Locations/Dorn/The Federation of Dorn.md",
     "NPC's/Julius Franklin.md",
-    "Locations/Centoria/Guilds of Centoria.md",
-    "Locations/Centoria/Centoria Smithing Guild.md",
-    "Locations/Centoria/Centoria.md",
-    "Locations/Centoria/Centoria Farmers Union.md",
+    "Locations/Dorn/Centoria/Guilds of Centoria.md",
+    "Locations/Dorn/Centoria/Centoria Smithing Guild.md",
+    "Locations/Dorn/Centoria/Centoria Farmers Union.md",
     "Directories/NPC Head Directory.md",
     "Overarching plot.md",
     "Pre Campaign Setting Notes.md",
