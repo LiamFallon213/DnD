@@ -12,7 +12,7 @@
 
 **Goals:** He wants to become the worlds emperor
 
-# Backstory TEST
+# Backstory
 ## Pre shift
 Julius was born in Cheyenne, Wyoming on October 27th, 1942.  To Amaya Smith and Theodore Franklin. He grew up during the height of the cold war, terrified of nuclear war. Despite the best efforts, on his 20th birthday, a soviet submarine launched a nuclear torpedo during the Cuban Missile Crisis. 
 
