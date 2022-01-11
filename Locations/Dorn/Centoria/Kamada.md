@@ -1,0 +1,1 @@
+Kamada is an organized shintollike religion that lies at the core of religious life on the eastern continent. 

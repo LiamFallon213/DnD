@@ -21,7 +21,7 @@
 [[Centoria Faithmens Guild]] 
 
 **Prominent factions without a council presence**:
-[[Church of Yama]]
+[[Kamada]]
 [[Church of Arcanas]]
 [[Adventurers Union]]
 [[Theives Guild]] (Unofficial)

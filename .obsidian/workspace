@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Church of Yama.md",
+            "file": "Locations/Dorn/Centoria/Kamada.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Church of Yama.md",
-            "mode": "source"
+            "file": "Locations/Dorn/Centoria/Kamada.md",
+            "mode": "preview"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dorn/Centoria/Church of Yama.md",
+                "file": "Locations/Dorn/Centoria/Kamada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Locations/Dorn/Centoria/Church of Yama.md",
+    "Locations/Dorn/Centoria/Kamada.md",
     "Locations/Dorn/Centoria/Centoria.md",
     "Locations/Dorn/The Federation of Dorn.md",
     "NPC's/Julius Franklin.md",
