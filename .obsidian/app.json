@@ -1,0 +1,17 @@
+{
+  "spellcheckDictionary": [
+    "Aboleth",
+    "Arothos",
+    "Aboleth",
+    "Electrum",
+    "Orichalcum",
+    "Mythril",
+    "Greatwyrm",
+    "Athenus"
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true
+}

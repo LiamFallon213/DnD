@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "bc3dec8afdb0eaff",
+    "type": "split",
+    "children": [
+      {
+        "id": "931d796c4ce90eff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NPC's/Julius Franklin.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "6249b2daa2f11bb6"
+      },
+      {
+        "id": "9757d3154c8b42c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NPC's/Julius Franklin.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "6249b2daa2f11bb6"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89f56b7cc1070def",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecbdd55b847c7ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d708f5a814284c4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "51a895a1e2d82e9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.0083885192871
+  },
+  "right": {
+    "id": "307437437f53b5f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a5653cc99384860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc6855ef7466dc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPC's/Julius Franklin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bac4b16a45f6b001",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e017d9270b751709",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d529c83169412c51",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314,
+    "collapsed": true
+  },
+  "active": "931d796c4ce90eff",
+  "lastOpenFiles": [
+    "NPC's/Julius Franklin.md",
+    "Locations/Centoria/Guilds of Centoria.md",
+    "Locations/Centoria/Centoria Smithing Guild.md",
+    "Locations/Centoria/Centoria.md",
+    "Locations/Centoria/Centoria Farmers Union.md",
+    "Directories/NPC Head Directory.md",
+    "Overarching plot.md",
+    "Pre Campaign Setting Notes.md",
+    "The Scouring.md",
+    "Untitled.md"
+  ]
+}
