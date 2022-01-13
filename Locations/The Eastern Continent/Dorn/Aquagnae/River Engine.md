@@ -1,0 +1,3 @@
+A River Enging was a device used to move large ships upstream. IT involved a anchor, a very long very string rope, and a water wheel on each side of the ship conencted with gears to the main winch.
+
+Some sailors on the ship would row upstream with the anchor, and after getting it properly in place, they would return. Then the water wheels would be lowered into the river, as they turned they would wind the rope up and pull the boat up the river.
