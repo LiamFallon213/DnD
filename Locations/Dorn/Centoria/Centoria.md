@@ -27,4 +27,9 @@
 [[Theives Guild]] (Unofficial)
 
 
+# Geography
+
+Centoria lies at the head of the Kastnar river, where the Kastner River comes out of 
+
+
 
