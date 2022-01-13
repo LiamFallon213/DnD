@@ -1,3 +1,8 @@
-A River Enging was a device used to move large ships upstream. IT involved a anchor, a very long very string rope, and a water wheel on each side of the ship conencted with gears to the main winch.
+# Description
+A River Engine was a device used to move large ships upstream. It was made up of a water wheel connected to a winch, which used an arcanely reinforced rope to pull ships upstream.
 
-Some sailors on the ship would row upstream with the anchor, and after getting it properly in place, they would return. Then the water wheels would be lowered into the river, as they turned they would wind the rope up and pull the boat up the river.
+River Engines resembled a small lighthouse with large water wheels. Each river engine could move between one and 5 ships. At up to 10 MPH.
+
+## Danger
+
+Rive
