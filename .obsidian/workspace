@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/River Engine.md",
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/River Engine.md",
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Eastern Continent/Dorn/Aquagnae/River Engine.md",
+                "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,20 +113,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 100
   },
-  "active": "9757d3154c8b42c4",
+  "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Locations/The Eastern Continent/Dorn/Aquagnae/River Engine.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
-    "Locations/The Eastern Continent/Dorn/Dorn.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Farmers Union.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aqu.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
-    "Locations/The Eastern Continent/The Eastern Continent.md"
+    "NPC's/Julius Franklin.md",
+    "Locations/Centoria/Guilds of Centoria.md",
+    "Locations/Centoria/Centoria Smithing Guild.md",
+    "Locations/Centoria/Centoria.md",
+    "Locations/Centoria/Centoria Farmers Union.md",
+    "Directories/NPC Head Directory.md",
+    "Overarching plot.md",
+    "Pre Campaign Setting Notes.md",
+    "The Scouring.md"
   ]
 }
