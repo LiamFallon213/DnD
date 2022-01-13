@@ -1,4 +1,4 @@
-The Centoria Smithing Guild is one of the oldest and most influential guilds in Centoria. They are composed of metalworkers.
+The Aquagnae Smithing Guild is one of the oldest and most influential guilds in Aquagnae. They are composed of metalworkers.
 
 | Guild Names                    | Allience Value|
 | ------------------------------ | -------------------------- |
@@ -7,6 +7,6 @@ The Centoria Smithing Guild is one of the oldest and most influential guilds in 
 | [[Centoria Arcanists Guild]]   |                            |
 | [[Centoria Artificiers Guild]] |                            |
 | [[Centoria Soldiers Guild]]    |                            |
-| [[Centoria Farmers Union]]     |                            |
+| [[Aquagnae Farmers Union]]     |                            |
 | [[Centoria Faithmens Guild]]   |                            |
 |                                |                            |
