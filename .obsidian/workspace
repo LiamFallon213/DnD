@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Aquagnae.md",
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aqu.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Aquagnae.md",
-            "mode": "preview"
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aqu.md",
+            "mode": "source"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dorn/Centoria/Aquagnae.md",
+                "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aqu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Locations/Dorn/Centoria/Aquagnae.md",
-    "Locations/Dorn/Centoria/Aqu.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aqu.md",
+    "Locations/The Eastern Continent/The Eastern Continent.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
     "Ideas Bin.md",
     "Pre Campaign Setting Notes.md",
     "Plot Pre Campaign Planning.md",
-    "Locations/Dorn/Centoria/Kamada.md",
-    "Locations/Dorn/The Federation of Dorn.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Kamada.md",
+    "Locations/The Eastern Continent/Dorn/The Federation of Dorn.md",
     "NPC's/Julius Franklin.md",
-    "Locations/Dorn/Centoria/Guilds of Centoria.md",
-    "Locations/Dorn/Centoria/Centoria Smithing Guild.md"
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Centoria.md"
   ]
 }
