@@ -34,5 +34,5 @@ Aquagnae lies at the head of the Kastnar river, where the Kastner River comes ou
 # Public Technology
 Aquagnae has a unique power source, the pressure of the water from [[The Great Sea]] nearly 500 feet above, and the pull of the second great fall, which plunges the water another 700 feet below into the deep valley. The city makes liberal use of above ground aquaducts to take the power of the water from far above and use it to power their city. Some are the size of rivers, flowing in the sky. As the water falls, it turns water wheels which power most functions inside the city. Most builldings use water wheels to take some of this power and use it to do basic mechanical functions. Many buildings are also dug into the cliff the water plunges over. Both sides of the city along the river are massive waterfalls, however it also is a massive trade city. This is accomplished through massive cargo lifts that are able to lift large metal tubs that hold entire ships. This is powered by the river, massive ropes wind around even larger drums, all turned by waterwheels that steal energy from the water before it plunges over the cliff.
 
-These ships use a device known as a [[River Engine]] to move up stream.
+These ships use a device known as a [[River Engine]] to move up stream. These are operated by the government of [[ Dorn]] all up the [[Aquarius]].
 
