@@ -5,4 +5,4 @@ River Engines resembled a small lighthouse with large water wheels. Each river e
 
 ## Danger
 
-River engine ropes range in diameter from 1 in to 12 in. The largest RIver Engines 
+River engine ropes range in diameter from 1 in to 12 in. The largest River Engines could pull thousands of tons up stream.  However, under so much tension, if the line broke it could send the many ton wet rope flying at hundreds of miles per hour with as much force as a cannon. If unlucky, this could sink a ship by tearing a hole in it.
