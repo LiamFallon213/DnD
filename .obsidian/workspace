@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Centoria.md",
+            "file": "Locations/Dorn/Centoria/Lacium.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Centoria.md",
+            "file": "Locations/Dorn/Centoria/Lacium.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dorn/Centoria/Centoria.md",
+                "file": "Locations/Dorn/Centoria/Lacium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Locations/Dorn/Centoria/Centoria.md",
+    "Locations/Dorn/Centoria/Lacium.md",
+    "Locations/Dorn/Centoria/Aquagnae.md",
     "Ideas Bin.md",
     "Pre Campaign Setting Notes.md",
     "Plot Pre Campaign Planning.md",
@@ -125,7 +126,6 @@
     "Locations/Dorn/The Federation of Dorn.md",
     "NPC's/Julius Franklin.md",
     "Locations/Dorn/Centoria/Guilds of Centoria.md",
-    "Locations/Dorn/Centoria/Centoria Smithing Guild.md",
-    "Locations/Dorn/Centoria/Centoria Farmers Union.md"
+    "Locations/Dorn/Centoria/Centoria Smithing Guild.md"
   ]
 }

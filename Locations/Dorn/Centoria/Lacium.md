@@ -29,7 +29,7 @@
 
 # Geography
 
-Centoria lies at the head of the Kastnar river, where the Kastner River comes out of 
+Centoria lies at the head of the Kastnar river, where the Kastner River comes out of Aquagnae and plunges into the Valley. It lies between the two great falls, and uses the water for powering most of it's city functions.
 
 
 
