@@ -5,4 +5,4 @@ River Engines resembled a small lighthouse with large water wheels. Each river e
 
 ## Danger
 
-Rive
+River engine ropes range in diameter from 1 in to 12 in. The largest RIver Engines 
