@@ -32,7 +32,7 @@
 Aquagnae lies at the head of the Kastnar river, where the Kastner River comes out of [[The Great Sea]] and plunges into the Valley. It lies between the two great falls, and uses the water for powering most of its city functions.
 
 # Public Technology
-Aquagnae has a unique power source, the pressure of the water from [[The Great Sea]] nearly 500 feet above, and the pull of the second great fall, which plunges the water another 700 feet below into the deep valley. The city uses the force of the water falling into specially made tunnels, which then flow through underground aquaducts benith the city. Most builldings use water wheels to take some of this power and use it to do basic mechanical functions.  The city makes a lot of profit from taking
+Aquagnae has a unique power source, the pressure of the water from [[The Great Sea]] nearly 500 feet above, and the pull of the second great fall, which plunges the water another 700 feet below into the deep valley. The city makes liberal use of above ground aquaducts to take the power of the water from far above and use it to power their city. Some are the size of rivers, flowing in the sky. As the water falls, it turns water wheels which giMost builldings use water wheels to take some of this power and use it to do basic mechanical functions.  The city makes a lot of profit from taking. Many buildings are also dug into the cliff the water plunges over.
 
 
 
