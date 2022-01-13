@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Lacium.md",
+            "file": "Locations/Dorn/Centoria/Aquagnae.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dorn/Centoria/Lacium.md",
+            "file": "Locations/Dorn/Centoria/Aquagnae.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dorn/Centoria/Lacium.md",
+                "file": "Locations/Dorn/Centoria/Aquagnae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Locations/Dorn/Centoria/Lacium.md",
     "Locations/Dorn/Centoria/Aquagnae.md",
+    "Locations/Dorn/Centoria/Aqu.md",
     "Ideas Bin.md",
     "Pre Campaign Setting Notes.md",
     "Plot Pre Campaign Planning.md",
