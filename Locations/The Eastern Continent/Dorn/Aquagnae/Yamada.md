@@ -1,4 +1,4 @@
-**Religon:** [[Kamada]]
+**Religon:** [[Konro]]
 
 **Position:** Head of pantheon
 

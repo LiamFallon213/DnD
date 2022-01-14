@@ -21,7 +21,7 @@
 [[Aquagnae Faithmens Guild]] 
 
 **Prominent factions without a council presence**:
-[[Kamada]]
+[[Konro]]
 [[Church of Arcanas]]
 [[Adventurers Union]]
 [[Theives Guild]] (Unofficial)
