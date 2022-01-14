@@ -12,7 +12,10 @@
 **Age:** XX
 **Accent:**
 ## Appearence:
-
+**Height:**
+**Race:** 
+**Hair:** 
+**Eyes:** 
 # Backstory
 Lorem Ipsum
 

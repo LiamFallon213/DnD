@@ -6,11 +6,11 @@
       {
         "id": "931d796c4ce90eff",
         "type": "leaf",
-        "dimension": 47.817460317460316,
+        "dimension": 74.90589711417816,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/NPC Template.md",
+            "file": "Sessions/Session 1 - Every End is a New Beginning.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
-        "dimension": 52.182539682539684,
+        "dimension": 25.094102885821833,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/NPC Template.md",
+            "file": "Sessions/Session 1 - Every End is a New Beginning.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/NPC Template.md",
+                "file": "Sessions/Session 1 - Every End is a New Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Sessions/Session 1 - Every End is a New Beginning.md",
     "NPC's/NPC Template.md",
     "NPC's/Julius Franklin.md",
     "Religons/Konro/Gods/Shin.md",
@@ -127,7 +128,6 @@
     "Religons/Konro/Gods/Jinmei.md",
     "Religons/Konro/Narafan.md",
     "Religons/Konro/Konro.md",
-    "Religons/Konro/Kara.md",
-    "Religons/Konro/Gods/Sensō.md"
+    "Religons/Konro/Kara.md"
   ]
 }
