@@ -13,5 +13,5 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
-  "legacyEditor": false
+  "legacyEditor": true
 }

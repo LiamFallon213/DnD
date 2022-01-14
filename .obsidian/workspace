@@ -6,12 +6,12 @@
       {
         "id": "931d796c4ce90eff",
         "type": "leaf",
+        "dimension": 49.497487437185924,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Religons/Konro/Kon.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -19,12 +19,12 @@
       {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
+        "dimension": 50.502512562814076,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Religons/Konro/Kon.md",
-            "mode": "preview",
-            "source": false
+            "mode": "preview"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871
+    "width": 212.0083885192871,
+    "collapsed": true
   },
   "right": {
     "id": "307437437f53b5f5",
