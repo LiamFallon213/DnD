@@ -4,6 +4,6 @@ The power heirarchy is as follows
 
 | [[Taiyō]] |           |         |            |            |            |
 | ---------- | --------- | ------- | ---------- | ---------- | ---------- | 
-| [[Tsuki]]  | [[Koros]] | [[Shi]] | [[Mizune]] | [[Goharu]] | [[Chikyū]] |      
+| [[Tsuki]]  | [[Sensō]] | [[Shi]] | [[Umi]] | [[Jin]] | [[Chikyū]] |      
 
 

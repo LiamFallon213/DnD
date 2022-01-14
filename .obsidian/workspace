@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Kon.md",
+            "file": "Religons/Konro/Tsuki.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Kon.md",
-            "mode": "preview"
+            "file": "Religons/Konro/Tsuki.md",
+            "mode": "source"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871,
-    "collapsed": true
+    "width": 212.0083885192871
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religons/Konro/Kon.md",
+                "file": "Religons/Konro/Tsuki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +119,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Religons/Konro/Tsuki.md",
+    "Religons/Konro/Taiyō.md",
     "Religons/Konro/Kon.md",
     "Religons/Konro/Konro.md",
     "Religons/Konro/Kara.md",
     "Religons/Konro/Narafan.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Yamada.md",
     "NPC's/Julius Franklin.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
     "Locations/Centoria/Guilds of Centoria.md",
-    "Locations/Centoria/Centoria Smithing Guild.md",
-    "Locations/Centoria/Centoria.md"
+    "Locations/Centoria/Centoria Smithing Guild.md"
   ]
 }

@@ -6,4 +6,4 @@ The [[Narafan]] are reigonal deities, they embody things like an ocean, a very l
 
 The [[Kara]] are local deities, they may rule over an espically old forest. A single mountain or river. 
 
-The leader of the [[Kon]] is [[Yamada]] the sun god. She heads the [[Divine Council]].
+The leader of the [[Kon]] is [[Taiyō]] the sun god. She heads the [[Divine Council]].
