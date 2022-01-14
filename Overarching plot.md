@@ -1,6 +1,6 @@
 ## Pacing
 ### Level 1-5: 
-As this starts, [[the party]] is still entirely unknown, they are not the strongest hero by far, (normal heroes very highest ranks are ~10) and still have to go quite a way. They are at Copper in the [[Adventurers Guild]] rankings to start the arc, and will progress through the ranks to Diamond.
+As this starts, [[the party]] is still entirely unknown, they are not the strongest hero by far, (normal heroes very highest ranks are ~10) and still have to go quite a way. They are at Copper in the [[Adventurers Union]] rankings to start the arc, and will progress through the ranks to Diamond.
 - Making a name for themselves
 - Doing mainly routine quests
 - Slowly moving up in the adventurers guild

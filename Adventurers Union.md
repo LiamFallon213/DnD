@@ -1,4 +1,4 @@
-The Adventurers Guild is an international organization that is omnipresent across the globe. The Adventurers Guild is used for the many needs that Adventurers need to go through.
+The Adventurers Union is an international organization that is omnipresent across the globe. The Adventurers Guild is used for the many needs that Adventurers need to go through.
 
 # Rankings
 | Ranking    | Level eq | Renown               | Realistic Threats to face | Examples                                                               |

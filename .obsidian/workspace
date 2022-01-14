@@ -6,7 +6,7 @@
       {
         "id": "931d796c4ce90eff",
         "type": "leaf",
-        "dimension": 71.0163111668758,
+        "dimension": 45.67126725219573,
         "state": {
           "type": "graph",
           "state": {}
@@ -16,12 +16,12 @@
       {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
-        "dimension": 28.983688833124216,
+        "dimension": 54.32873274780427,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 1 - Every End is a New Beginning.md",
-            "mode": "preview"
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
+            "mode": "source"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -115,15 +115,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
+    "Adventurers Union.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
+    "Divine Council.md",
+    "Chikyū.md",
+    "Religons/Konro/Gods/Shin.md",
     "Sessions/Session 1 - Every End is a New Beginning.md",
     "NPC's/NPC Template.md",
     "NPC's/Julius Franklin.md",
-    "Religons/Konro/Gods/Shin.md",
-    "Religons/Konro/Gods/Tsuki.md",
-    "Religons/Konro/Kon.md",
-    "Religons/Konro/Gods/Jinmei.md",
-    "Religons/Konro/Narafan.md",
-    "Religons/Konro/Konro.md",
-    "Religons/Konro/Kara.md"
+    "Religons/Konro/Gods/Tsuki.md"
   ]
 }
