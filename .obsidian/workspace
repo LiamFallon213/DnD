@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Konro.md",
+            "file": "Religons/Konro/Kon.md",
             "mode": "source",
             "source": false
           }
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Konro.md",
-            "mode": "source",
+            "file": "Religons/Konro/Kon.md",
+            "mode": "preview",
             "source": false
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religons/Konro/Konro.md",
+                "file": "Religons/Konro/Kon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +119,10 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Religons/Konro/Konro.md",
     "Religons/Konro/Kon.md",
+    "Religons/Konro/Konro.md",
     "Religons/Konro/Kara.md",
-    "Religons/Konro/Narafim.md",
+    "Religons/Konro/Narafan.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Yamada.md",
     "NPC's/Julius Franklin.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
