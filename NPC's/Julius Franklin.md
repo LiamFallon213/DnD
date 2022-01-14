@@ -19,7 +19,7 @@
 
 ## Appearance:
 **Height:** 6'8"
-**Race:** Caucation
+**Race:** Causation
 **Hair:** Short Black
 **Eyes:** Green
 
