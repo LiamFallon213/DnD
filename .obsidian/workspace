@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Tsuki.md",
+            "file": "Religons/Konro/Gods/Shin.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Tsuki.md",
+            "file": "Religons/Konro/Gods/Shin.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religons/Konro/Tsuki.md",
+                "file": "Religons/Konro/Gods/Shin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Religons/Konro/Tsuki.md",
-    "Religons/Konro/Taiyō.md",
+    "Religons/Konro/Gods/Shin.md",
+    "Religons/Konro/Gods/Tsuki.md",
     "Religons/Konro/Kon.md",
+    "Religons/Konro/Gods/Jinmei.md",
+    "Religons/Konro/Narafan.md",
     "Religons/Konro/Konro.md",
     "Religons/Konro/Kara.md",
-    "Religons/Konro/Narafan.md",
-    "NPC's/Julius Franklin.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
-    "Locations/Centoria/Guilds of Centoria.md",
-    "Locations/Centoria/Centoria Smithing Guild.md"
+    "Religons/Konro/Gods/Sensō.md",
+    "Religons/Konro/Gods/Umi.md",
+    "Religons/Konro/Gods/Taiyō.md"
   ]
 }
