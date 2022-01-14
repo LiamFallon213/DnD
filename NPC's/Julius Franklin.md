@@ -1,6 +1,8 @@
 # General Information
 **Name:** Theodore Ceaser
 
+**Current Location:** [[Aquagnae]]
+
 **Alignment:** Chaotic Neutral
 
 **Alius's: **

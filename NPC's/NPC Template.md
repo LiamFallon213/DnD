@@ -1,6 +1,8 @@
 # General Information
 **Name:** Jon Doe
 
+**Current Location:**
+
 **Alignment:** Chaotic stupid
 
 **Alius's: **

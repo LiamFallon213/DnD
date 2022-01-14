@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 45.67126725219573,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Locations/The Eastern Continent/Dorn/Dorn.md",
+            "mode": "source"
+          }
         },
         "group": "6249b2daa2f11bb6"
       },
@@ -20,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
-            "mode": "source"
+            "file": "Locations/The Eastern Continent/Dorn/Dorn.md",
+            "mode": "preview"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -80,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/The Eastern Continent/Dorn/Dorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +117,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "931d796c4ce90eff",
+  "active": "9757d3154c8b42c4",
   "lastOpenFiles": [
+    "Locations/The Eastern Continent/Dorn/Dorn.md",
+    "NPC's/NPC Template.md",
+    "NPC's/Julius Franklin.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Faithmens Guild.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
     "Adventurers Union.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
     "Divine Council.md",
-    "Chikyū.md",
-    "Religons/Konro/Gods/Shin.md",
-    "Sessions/Session 1 - Every End is a New Beginning.md",
-    "NPC's/NPC Template.md",
-    "NPC's/Julius Franklin.md",
-    "Religons/Konro/Gods/Tsuki.md"
+    "Chikyū.md"
   ]
 }
