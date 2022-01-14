@@ -1,6 +1,8 @@
 # General Information
 **Name:** Theodore Ceaser
 
+**Alignment:** Chaotic Neutral
+
 **Alius's: **
 - Jupiter Alliendrus (ah-len-drus)
 - The Plague Lord
@@ -24,6 +26,10 @@ He was pulled into the new world, and decided to make it so that couldn't happen
 After the plane shift, Julius took a new name, Jupiter Asclepius. Jupiter being the king of the gods, and thenus from Athena, the roman god of Wisdom. He went on to build up his arcane abilities into one of the greatest on the planet. He build a magic shop, and became high council to the Arcanists guild.
 
 However this wasn't enough for him to stop the war of 1313, so he decided to go further. He stepped into black, old magic. In doing so he found the power he so wanted, he commands the monster armies that siege the kingdoms of man. He then took a new name as his alius, The Black Mage. 
+
+---
+
+Julius does not like killing or violence, it is often his last resort. However, he is willing to do anything he needs to do to accomplish his goal.
 
 
 
