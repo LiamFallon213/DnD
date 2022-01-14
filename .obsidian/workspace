@@ -21,11 +21,8 @@
         "type": "leaf",
         "dimension": 54.32873274780427,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/The Eastern Continent/Dorn/Dorn.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "6249b2daa2f11bb6"
       }
@@ -83,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Eastern Continent/Dorn/Dorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
