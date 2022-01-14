@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Julius Franklin.md",
+            "file": "NPC's/NPC Template.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Julius Franklin.md",
+            "file": "NPC's/NPC Template.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Julius Franklin.md",
+                "file": "NPC's/NPC Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +119,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "NPC's/Julius Franklin.md",
     "NPC's/NPC Template.md",
+    "NPC's/Julius Franklin.md",
     "Religons/Konro/Gods/Shin.md",
     "Religons/Konro/Gods/Tsuki.md",
     "Religons/Konro/Kon.md",
