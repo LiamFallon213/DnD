@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Gods/Shin.md",
+            "file": "NPC's/Julius Franklin.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Gods/Shin.md",
-            "mode": "source"
+            "file": "NPC's/Julius Franklin.md",
+            "mode": "preview"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religons/Konro/Gods/Shin.md",
+                "file": "NPC's/Julius Franklin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "NPC's/Julius Franklin.md",
+    "NPC's/NPC Template.md",
     "Religons/Konro/Gods/Shin.md",
     "Religons/Konro/Gods/Tsuki.md",
     "Religons/Konro/Kon.md",
@@ -126,8 +128,6 @@
     "Religons/Konro/Narafan.md",
     "Religons/Konro/Konro.md",
     "Religons/Konro/Kara.md",
-    "Religons/Konro/Gods/Sensō.md",
-    "Religons/Konro/Gods/Umi.md",
-    "Religons/Konro/Gods/Taiyō.md"
+    "Religons/Konro/Gods/Sensō.md"
   ]
 }

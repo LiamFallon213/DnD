@@ -8,11 +8,22 @@
 - The Plague Lord
 - The Black Mage
 
-**Age:** 35
-
 **Time since plane shift:** 15 years
 
 **Goals:** He wants to become the worlds emperor
+
+# Biological Information
+**Age:** 35
+
+**Accent:**
+
+## Appearance:
+**Height:** 6'8"
+**Race:** Caucation
+**Hair:** Short Black
+**Eyes:** Green
+
+
 
 # Backstory
 ## Pre shift
