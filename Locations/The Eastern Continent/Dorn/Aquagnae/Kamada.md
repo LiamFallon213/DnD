@@ -1,3 +1,3 @@
-Kamada is an organized shintollike religion that lies at the core of religious life on the eastern continent. It's religous center is in the Yuradosa forest in Nimono.
+Kamada is an organized shintollike religion that lies at the core of religious life on the eastern continent. It's religous center is in the Yuradosa forest in Nimono. The religon has 3 layers of deities, [[Gods of Kamada |Gods]],  [[Narafim]], and [[Kara]].
 
-The head god is [[Yamada]] the sun god.
+The leader of the gods is [[Yamada]] the sun god.

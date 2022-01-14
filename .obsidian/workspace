@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Yamada.md",
-            "mode": "source"
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Kamada.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -21,8 +22,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Yamada.md",
-            "mode": "source"
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Kamada.md",
+            "mode": "preview",
+            "source": false
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Yamada.md",
+                "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Kamada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +119,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Yamada.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Kamada.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Yamada.md",
     "NPC's/Julius Franklin.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
     "Locations/Centoria/Guilds of Centoria.md",
