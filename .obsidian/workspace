@@ -6,20 +6,17 @@
       {
         "id": "931d796c4ce90eff",
         "type": "leaf",
-        "dimension": 74.90589711417816,
+        "dimension": 71.0163111668758,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sessions/Session 1 - Every End is a New Beginning.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "6249b2daa2f11bb6"
       },
       {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
-        "dimension": 25.094102885821833,
+        "dimension": 28.983688833124216,
         "state": {
           "type": "markdown",
           "state": {
@@ -83,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 1 - Every End is a New Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
