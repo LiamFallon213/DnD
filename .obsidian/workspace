@@ -6,25 +6,22 @@
       {
         "id": "931d796c4ce90eff",
         "type": "leaf",
-        "dimension": 45.67126725219573,
+        "dimension": 49.888392857142854,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Timeline/BBEG Home/The Last War.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "6249b2daa2f11bb6"
       },
       {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
-        "dimension": 54.32873274780427,
+        "dimension": 50.11160714285714,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Timeline/BBEG Home/The Last War.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -67,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871
+    "width": 212.0083885192871,
+    "collapsed": true
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/BBEG Home/The Last War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.48309326171875
+    "width": 242.48309326171875,
+    "collapsed": true
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
