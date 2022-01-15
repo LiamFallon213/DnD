@@ -22,3 +22,7 @@ Then a second warning of a nuclear exchange between the Soviet Union and the Uni
  
  You have a terrible headache and as you scratch it, the hair begins to fall out, and as you cough blood comes up. You recognize this as acute radiation poisoning. You finally feel your legs give out, and you collapse.
  
+ You lay there, black rain falling on you. Lghtning flashes overhead. The world grows dark as you scream in pain, the adrenaline wearing off you feel everything.
+ 
+ You cry and the world becomes nothing.
+ 
