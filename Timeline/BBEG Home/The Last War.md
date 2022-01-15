@@ -20,5 +20,5 @@ Then a second warning of a nuclear exchange between the Soviet Union and the Uni
  
  As you approach 3 the epicenter of a blast, you see blast shadows. Places where a person was vaporized by the initial heat wave and left a shadow of less burned area. You see thousands, men, women, and even young children. 
  
- You have a terrible headache and as you scratch it, the hair begins to fall out, and as you 
+ You have a terrible headache and as you scratch it, the hair begins to fall out, and as you cough blood comes up. You recognize this as acute radiation poisoning. You finally feel your legs give out, and you collapse.
  
