@@ -29,7 +29,7 @@
 
 # Backstory
 ## Pre shift
-Julius was born in Tokyo Japan on October 27th, 1942.  To Amaya Smith and Theodore Franklin. He grew up during the height of the cold war, terrified of nuclear war. Despite the best efforts, on his 20th birthday, a soviet submarine launched a nuclear torpedo during the Cuban Missile Crisis. 
+Julius was born in Cheyanne Wyoming on October 27th, 1942.  To Amaya Smith and Theodore Franklin. He grew up during the height of the cold war, terrified of nuclear war. Despite the best efforts, on his 20th birthday, a soviet submarine launched a nuclear torpedo during the Cuban Missile Crisis. 
 
 This started a nuclear war between the Soviets and the West. Julius watched the minute man missiles fly out of their silos from his house outside. He tried to get home but before he got there a nuclear weapon obliterated the city. He lived for weeks after the war, but died to radiation poisoning.
 
