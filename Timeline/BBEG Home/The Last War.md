@@ -10,7 +10,7 @@ Then a second warning of a nuclear exchange between the Soviet Union and the Uni
  
  Even with your hands covering your eyes, you can see the bones. The light goes down and you see three mushroom clouds rising over a burning city. You duck into a roadside trench just as the shockwave passes over you, covering your ears allows you to not go deaf. You pass out.
  
- As you snap out of the unconsiouness due to rain, you get up it feels like your clothes are fused to your skin. The rain is black.
+ As you snap out of the unconsciousness due to rain, you get up it feels like your clothes are fused to your skin. The rain is black.
  
  You are covered head to toe in severe burns.
  
