@@ -1,0 +1,2 @@
+Name: Lavender
+Class: Bard
