@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Party Members.md",
+            "file": "Ideas Bin.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Party Members.md",
+            "file": "Ideas Bin.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party Info/Party Members.md",
+                "file": "Ideas Bin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Ideas Bin.md",
+    "Overarching plot.md",
     "Party Info/Party Members.md",
     "Party Info/Marlow.md",
     "Party Info/Nyx.md",
     "Party Info/Lavander.md",
     "Adventurers Union.md",
     "Timeline/BBEG Home/The Last War.md",
-    "Ideas Bin.md",
     "NPC's/Julius Franklin.md",
-    "Locations/The Eastern Continent/Dorn/Dorn.md",
-    "NPC's/NPC Template.md"
+    "Locations/The Eastern Continent/Dorn/Dorn.md"
   ]
 }
