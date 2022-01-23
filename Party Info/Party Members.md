@@ -1,6 +1,6 @@
 [[Nyx]]
 [[Lavander]]
 [[Marlow]]
-[[Sean]]
+[[Dr. Seamus (Sean) McGillicuddy]]
 [[Olivar]]
 [[Gadfort Magorius]]
