@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Dr. Seamus (Sean) McGillicuddy.md",
+            "file": "Party Info/Olivar.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Dr. Seamus (Sean) McGillicuddy.md",
+            "file": "Party Info/Olivar.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party Info/Dr. Seamus (Sean) McGillicuddy.md",
+                "file": "Party Info/Olivar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Party Info/Olivar.md",
+    "Party Info/Nyx.md",
+    "Party Info/Lavander.md",
     "Party Info/Dr. Seamus (Sean) McGillicuddy.md",
     "Party Info/Gadfort Magorius.md",
-    "Party Info/Lavander.md",
     "Party Info/Marlow.md",
-    "Party Info/Olivar.md",
     "Party Info/Party Members.md",
     "NPC's/Julius Franklin.md",
     "Sessions/Session 1 - Every End is a New Beginning.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
-    "Locations/The Eastern Continent/The Eastern Continent.md"
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md"
   ]
 }
