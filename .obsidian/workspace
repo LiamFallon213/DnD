@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas Bin.md",
+            "file": "Sessions/Session 1 - Every End is a New Beginning.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas Bin.md",
+            "file": "Sessions/Session 1 - Every End is a New Beginning.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas Bin.md",
+                "file": "Sessions/Session 1 - Every End is a New Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Sessions/Session 1 - Every End is a New Beginning.md",
     "Ideas Bin.md",
     "Overarching plot.md",
     "Party Info/Party Members.md",
@@ -127,7 +128,6 @@
     "Party Info/Lavander.md",
     "Adventurers Union.md",
     "Timeline/BBEG Home/The Last War.md",
-    "NPC's/Julius Franklin.md",
-    "Locations/The Eastern Continent/Dorn/Dorn.md"
+    "NPC's/Julius Franklin.md"
   ]
 }
