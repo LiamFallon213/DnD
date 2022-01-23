@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 49.888392857142854,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Adventurers Union.md",
+            "mode": "source"
+          }
         },
         "group": "6249b2daa2f11bb6"
       },
@@ -20,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline/BBEG Home/The Last War.md",
+            "file": "Adventurers Union.md",
             "mode": "preview"
           }
         },
@@ -64,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871,
-    "collapsed": true
+    "width": 212.0083885192871
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Adventurers Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +119,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Adventurers Union.md",
     "Timeline/BBEG Home/The Last War.md",
     "Ideas Bin.md",
     "NPC's/Julius Franklin.md",
@@ -124,7 +128,6 @@
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Faithmens Guild.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
-    "Adventurers Union.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md"
   ]
 }
