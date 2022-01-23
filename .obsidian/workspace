@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
+                "file": "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
     "NPC's/Unimportant NPC's/Captain Johnathan.md",
@@ -127,7 +128,6 @@
     "Party Info/Olivar.md",
     "Party Info/Nyx.md",
     "Party Info/Lavander.md",
-    "Party Info/Dr. Seamus (Sean) McGillicuddy.md",
-    "Party Info/Gadfort Magorius.md"
+    "Party Info/Dr. Seamus (Sean) McGillicuddy.md"
   ]
 }
