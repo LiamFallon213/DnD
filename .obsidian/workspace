@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 1 - Every End is a New Beginning.md",
+            "file": "Party Info/Sean.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 1 - Every End is a New Beginning.md",
+            "file": "Party Info/Sean.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 1 - Every End is a New Beginning.md",
+                "file": "Party Info/Sean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
     "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "931d796c4ce90eff",
+  "active": "9757d3154c8b42c4",
   "lastOpenFiles": [
+    "Party Info/Sean.md",
+    "Party Info/Party Members.md",
+    "NPC's/Julius Franklin.md",
     "Sessions/Session 1 - Every End is a New Beginning.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
     "Locations/The Eastern Continent/The Eastern Continent.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Farmers Union.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Faithmens Guild.md",
-    "Pre Campaign Setting Notes.md",
-    "Plot Pre Campaign Planning.md"
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Farmers Union.md"
   ]
 }
