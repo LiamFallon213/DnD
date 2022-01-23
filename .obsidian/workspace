@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Sean.md",
+            "file": "Party Info/Party Members.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Sean.md",
-            "mode": "source"
+            "file": "Party Info/Party Members.md",
+            "mode": "preview"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party Info/Sean.md",
+                "file": "Party Info/Party Members.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "9757d3154c8b42c4",
   "lastOpenFiles": [
-    "Party Info/Sean.md",
     "Party Info/Party Members.md",
+    "Party Info/Gadfort Magorius.md",
+    "Party Info/Nikolai.md",
+    "Party Info/Sean.md",
     "NPC's/Julius Franklin.md",
     "Sessions/Session 1 - Every End is a New Beginning.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
     "Locations/The Eastern Continent/The Eastern Continent.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Farmers Union.md"
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md"
   ]
 }

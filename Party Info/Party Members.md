@@ -2,3 +2,5 @@
 [[Lavander]]
 [[Marlow]]
 [[Sean]]
+[[Nikolai]]
+[[Gadfort Magorius]]
