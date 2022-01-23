@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Party Members.md",
+            "file": "Party Info/Lavander.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Party Members.md",
+            "file": "Party Info/Lavander.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party Info/Party Members.md",
+                "file": "Party Info/Lavander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,9 @@
     "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "9757d3154c8b42c4",
+  "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Party Info/Lavander.md",
     "Party Info/Party Members.md",
     "Party Info/Gadfort Magorius.md",
     "Party Info/Nikolai.md",
@@ -127,7 +128,6 @@
     "Sessions/Session 1 - Every End is a New Beginning.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
     "Locations/The Eastern Continent/The Eastern Continent.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md"
+    "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md"
   ]
 }
