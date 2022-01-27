@@ -19,6 +19,7 @@ Pilots barges right now.
 # Biological Information
 **Age:** 52
 **Accent:** Scottish
+**Sex:** Male
 ## Appearence:
 **Height:** 5' 5"
 **Race:**  [[Human]]
@@ -26,6 +27,6 @@ Pilots barges right now.
 **Skin Color:** White with a sea tan
 **Eyes:** Blue
 **Facial Hair:** Significant beard and mustache 
-**Misc:** La
+**Misc:** Large fishhook tatoo oh his back
 # Backstory
 Lorem Ipsum

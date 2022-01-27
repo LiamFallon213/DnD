@@ -13,6 +13,7 @@
 # Biological Information
 **Age:** XX
 **Accent:**
+**Sex:** 
 ## Appearence:
 **Height:**
 **Race:** 
