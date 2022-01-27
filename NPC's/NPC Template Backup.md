@@ -18,7 +18,7 @@
 **Race:** 
 **Hair:** 
 **Skin Color:** 
-**Eyes:**
+**Eyes:** 
 **Facial Hair:** 
 # Backstory
 Lorem Ipsum
