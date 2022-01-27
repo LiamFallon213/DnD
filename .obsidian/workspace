@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Gods/Taiyō.md",
+            "file": "NPC's/Unimportant NPC's/Captain Johnathan.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religons/Konro/Gods/Taiyō.md",
+            "file": "NPC's/Unimportant NPC's/Captain Johnathan.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religons/Konro/Gods/Taiyō.md",
+                "file": "NPC's/Unimportant NPC's/Captain Johnathan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "NPC's/Unimportant NPC's/Captain Johnathan.md",
+    "NPC's/NPC Template 1.md",
+    "NPC's/NPC Template.md",
+    "NPC's/Julius Franklin.md",
     "Religons/Konro/Gods/Taiyō.md",
     "Religons/Konro/Gods/Heiwa.md",
     "Religons/Konro/Gods/Shin.md",
     "Religons/Konro/Gods/Umi.md",
     "Religons/Konro/Gods/Tsuki.md",
-    "Religons/Konro/Gods/Sensō.md",
-    "Religons/Konro/Gods/Jinmei.md",
-    "Religons/Konro/Konro.md",
-    "Religons/Konro/Kara.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Laws.md"
+    "Religons/Konro/Gods/Sensō.md"
   ]
 }
