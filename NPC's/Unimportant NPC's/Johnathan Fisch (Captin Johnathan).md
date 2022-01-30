@@ -9,6 +9,8 @@ Pilots barges right now.
 
 **Current Location:**  [[Aquarius| The River Aquarius]]
 
+**Job:** Captain
+
 **Alignment:** Lawful Good
 
 **Alius's: **

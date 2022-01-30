@@ -3,6 +3,8 @@
 
 **Current Location:**
 
+**Job:**
+
 **Alignment:** True Neutral
 
 **Alius's: **
