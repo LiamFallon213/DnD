@@ -22,7 +22,7 @@
 **Eyes:** Blue
 **Facial Hair:** None
 # Backstory
-Lorem Ipsum
+Atara was a slave when she was young on the [[Eastern Continent]]
 
 
 
