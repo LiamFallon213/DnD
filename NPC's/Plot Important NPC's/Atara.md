@@ -17,10 +17,10 @@
 ## Appearence:
 **Height:** 5'3"
 **Race:** Human	
-**Hair:** Blue
+**Hair:** Lightning Blue
 **Skin Color:** White
 **Eyes:** Blue
-**Facial Hair:** 
+**Facial Hair:** None
 # Backstory
 Lorem Ipsum
 
