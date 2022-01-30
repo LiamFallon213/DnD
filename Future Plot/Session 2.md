@@ -1,0 +1,1 @@
+The party has met the [[Black Mage| ]]

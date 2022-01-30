@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Future Plot/Ideas Bin.md",
+            "file": "Future Plot/Session 2.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Future Plot/Ideas Bin.md",
+            "file": "Future Plot/Session 2.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Future Plot/Ideas Bin.md",
+                "file": "Future Plot/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Future Plot/Ideas Bin.md",
+    "Future Plot/Session 2.md",
     "Future Plot/Overarching plot.md",
+    "Future Plot/Ideas Bin.md",
     "Directories/NPC Head Directory.md",
     "World Building/Religons/Konro/Divine Council.md",
     "Party Info/Olivar.md",
     "NPC's/Unimportant NPC's/Johnathan Fisch (Captin Johnathan).md",
     "NPC's/Julius Franklin.md",
     "NPC's/NPC Template.md",
-    "NPC's/NPC Template Backup.md",
-    "World Building/Religons/Konro/Gods/Taiyō.md"
+    "NPC's/NPC Template Backup.md"
   ]
 }
