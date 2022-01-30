@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Future Plot/Session 2.md",
+            "file": "NPC's/Plot Important NPC's/Atara.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Future Plot/Session 2.md",
-            "mode": "preview"
+            "file": "NPC's/Plot Important NPC's/Atara.md",
+            "mode": "source"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Future Plot/Session 2.md",
+                "file": "NPC's/Plot Important NPC's/Atara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "NPC's/Plot Important NPC's/Atara.md",
+    "NPC's/NPC Template.md",
     "Future Plot/Session 2.md",
     "Future Plot/Overarching plot.md",
     "Future Plot/Ideas Bin.md",
@@ -126,8 +128,6 @@
     "World Building/Religons/Konro/Divine Council.md",
     "Party Info/Olivar.md",
     "NPC's/Unimportant NPC's/Johnathan Fisch (Captin Johnathan).md",
-    "NPC's/Julius Franklin.md",
-    "NPC's/NPC Template.md",
-    "NPC's/NPC Template Backup.md"
+    "NPC's/Plot Important NPC's/Julius Franklin.md"
   ]
 }
