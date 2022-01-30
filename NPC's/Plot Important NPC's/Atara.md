@@ -22,7 +22,7 @@
 **Eyes:** Blue
 **Facial Hair:** None
 # Backstory
-Atara was a slave when she was young on the [[Eastern Continent]]
+Atara was a slave when she was young on the [[Eastern Continent]]. Her master abused her, but when she was 13. She watched her mother die to her master, her
 
 
 
