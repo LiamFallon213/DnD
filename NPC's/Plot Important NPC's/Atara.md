@@ -1,6 +1,8 @@
 # General Information
 **Name:** Atara Malthus
 
+**Class**: Fighter lvl 20
+
 **Current Location:** [[Aquagnae]]
 
 **Alignment:** Chaotic Good
@@ -24,7 +26,9 @@
 **Facial Hair:** None
 
 # Powers
-She can turn into a bolt of lightning and control electricity to a degree. She is immune to lightning damage. When she moves as lightning she can move up to 60 feet as a bonus action.
+Atara can manipulate time it's self. When she does, she can blink in and out of existence or even be in multiple places at the same time. However, she can't fully control the powers and is sometimes pulled through time.
+
+
 
 # Backstory
 Atara was a slave when she was young on the [[Eastern Continent]]. Her master abused her, but when she was 13. She watched her mother die to her master, her powers ignited. She moved like lightning and used a branch and impaled her master. She fled the country and became a bounty hunter. Eventually after many years she ended up in Aquagnae.
