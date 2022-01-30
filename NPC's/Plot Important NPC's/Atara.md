@@ -35,7 +35,7 @@ Atara was a slave when she was young on the [[Eastern Continent]]. Her master ab
 
 Some notable 
 
-
+Trolled a duke by taking a hit contract on a mistress then introduced them to their wife.
 
 
 
