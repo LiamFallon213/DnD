@@ -14,6 +14,7 @@
 **Age:** XX
 **Accent:**
 **Sex:** 
+
 ## Appearence:
 **Height:**
 **Race:** 
@@ -21,6 +22,9 @@
 **Skin Color:** 
 **Eyes:**
 **Facial Hair:** 
+
+# Powers
+
 # Backstory
 Lorem Ipsum
 
