@@ -1,6 +1,8 @@
 # General Information
 **Name:** Theodore Ceaser
 
+**Job:** Jewels and Wands
+
 **Current Location:** [[Aquagnae]]
 
 **Alignment:** Chaotic Neutral
