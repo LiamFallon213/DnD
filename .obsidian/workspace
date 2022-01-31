@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+            "file": "World Building/Religons/Konro/Konro.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+            "file": "World Building/Religons/Konro/Konro.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+                "file": "World Building/Religons/Konro/Konro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "World Building/Religons/Konro/Konro.md",
+    "World Building/Religons/Konro/Kara.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
     "NPC's/NPC Template.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Carpenters Guild.md",
@@ -126,8 +128,6 @@
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Artificiers Guild.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/River Engine.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Soldiers Guild.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
-    "NPC's/Plot Important NPC's/Julius Franklin.md"
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Soldiers Guild.md"
   ]
 }
