@@ -11,6 +11,8 @@ After the [[Revolution of 1819]], and the resulting creation of the [[Council of
 | [[Aquagnae Artificiers Guild]] | 8     | Y                   |
 | [[Aquagnae Faithmens Guild]]   | 4     | Y                   |
 
+
+
 | Guild Names                    | [[Aquagnae Smithing Guild]] | [[Aquagnae Tailors Guild]] | [[Aquagnae Carpenters Guild]] | [[Aquagnae Arcanists Guild]] | [[Aquagnae Artificiers Guild]] | [[Aquagnae Soldiers Guild]] | [[Aquagnae Farmers Union]] | [[Aquagnae Faithmens Guild]] |
 | ------------------------------ | --------------------------- | -------------------------- | ----------------------------- | ---------------------------- | ------------------------------ | --------------------------- | -------------------------- | ---------------------------- |
 | [[Aquagnae Smithing Guild]]    | -                           | 20%                        | 90%                           | 40%                          | 80%                            | 80%                         | 60%                        | 15%                          |
@@ -22,4 +24,15 @@ After the [[Revolution of 1819]], and the resulting creation of the [[Council of
 | [[Aquagnae Farmers Union]]     | 70%                         | 65%                        | 75%                           | 70%                          | 80%                            | 10%                         | -                          | 80%                          |
 | [[Aquagnae Faithmens Guild]]   | 15%                         | 60%                        | 50%                           | 10%                          | 10%                            | 0%                          | 80%                        | -                            |
 
-a
+
+# Party Favor
+| Guild Name                     | Favor |
+| ------------------------------ | ----- |
+| [[Aquagnae Farmers Union]]     | 0%    |
+| [[Aquagnae Smithing Guild]]    | 0%    |
+| [[Aquagnae Carpenters Guild]]  | 0%    |
+| [[Aquagnae Arcanists Guild]]   | 0%    |
+| [[Aquagnae Tailors Guild]]     | 0%    |
+| [[Aquagnae Soldiers Guild]]    | 0%    | 
+| [[Aquagnae Artificiers Guild]] | 0%    |
+| [[Aquagnae Faithmens Guild]]   | 0%    |

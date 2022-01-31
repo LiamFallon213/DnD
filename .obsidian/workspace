@@ -6,7 +6,7 @@
       {
         "id": "931d796c4ce90eff",
         "type": "leaf",
-        "dimension": 49.888392857142854,
+        "dimension": 55.40275049115914,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,12 +19,12 @@
       {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
-        "dimension": 50.11160714285714,
+        "dimension": 44.59724950884086,
         "state": {
           "type": "markdown",
           "state": {
             "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -117,9 +117,10 @@
     "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "9757d3154c8b42c4",
+  "active": "931d796c4ce90eff",
   "lastOpenFiles": [
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+    "NPC's/NPC Template.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Carpenters Guild.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Artificiers Guild.md",
@@ -127,7 +128,6 @@
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Soldiers Guild.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
-    "NPC's/Plot Important NPC's/Julius Franklin.md",
-    "NPC's/Plot Important NPC's/Atara.md"
+    "NPC's/Plot Important NPC's/Julius Franklin.md"
   ]
 }
