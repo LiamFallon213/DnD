@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 3.md",
+            "file": "Future Plot/Ideas Bin.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 3.md",
-            "mode": "source"
+            "file": "Future Plot/Ideas Bin.md",
+            "mode": "preview"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 3.md",
+                "file": "Future Plot/Ideas Bin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Sessions/Session 3.md",
+    "Future Plot/Ideas Bin.md",
+    "NPC's/Unimportant NPC's/Johnathan Fisch (Captin Johnathan).md",
     "Sessions/Session 2.md",
+    "Sessions/Session 3.md",
     "Adventurers Union.md",
+    "NPC's/Unimportant NPC's/Malara.md",
+    "NPC's/Unimportant NPC's/Kelindor.md",
     "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
     "World Building/Locations/The Eastern Continent/Dorn/Dorn.md",
-    "World Building/Locations/The Eastern Continent/Untitled.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
-    "Meta Rules/Chemestry Rules.md",
-    "Future Plot/Ideas Bin.md",
-    "World Building/Religons/Konro/Konro.md"
+    "World Building/Locations/The Eastern Continent/Untitled.md"
   ]
 }
