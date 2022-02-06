@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 3.md",
+            "file": "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 3.md",
+            "file": "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 3.md",
+                "file": "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
     "Sessions/Session 3.md",
     "Future Plot/Ideas Bin.md",
     "NPC's/Unimportant NPC's/Johnathan Fisch (Captin Johnathan).md",
@@ -127,7 +128,6 @@
     "NPC's/Unimportant NPC's/Malara.md",
     "NPC's/Unimportant NPC's/Kelindor.md",
     "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Dorn.md",
-    "World Building/Locations/The Eastern Continent/Untitled.md"
+    "World Building/Locations/The Eastern Continent/Dorn/Dorn.md"
   ]
 }
