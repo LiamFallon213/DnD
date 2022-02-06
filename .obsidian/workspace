@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
+            "file": "Quests/Collect Sulpher.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
+            "file": "Quests/Collect Sulpher.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
+                "file": "Quests/Collect Sulpher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,8 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Quests/Collect Sulpher.md",
+    "Quests/Quest Tempelate.md",
     "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
     "Sessions/Session 3.md",
     "Future Plot/Ideas Bin.md",
@@ -126,8 +128,6 @@
     "Sessions/Session 2.md",
     "Adventurers Union.md",
     "NPC's/Unimportant NPC's/Malara.md",
-    "NPC's/Unimportant NPC's/Kelindor.md",
-    "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Dorn.md"
+    "NPC's/Unimportant NPC's/Kelindor.md"
   ]
 }
