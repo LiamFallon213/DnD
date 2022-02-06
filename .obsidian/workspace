@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
+            "file": "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
+            "file": "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
+                "file": "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Dorn.md",
+    "World Building/Locations/The Eastern Continent/Untitled.md",
     "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
     "Meta Rules/Chemestry Rules.md",
     "Future Plot/Ideas Bin.md",
     "World Building/Religons/Konro/Konro.md",
     "World Building/Religons/Konro/Kara.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
-    "NPC's/NPC Template.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Carpenters Guild.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Artificiers Guild.md"
+    "NPC's/NPC Template.md"
   ]
 }
