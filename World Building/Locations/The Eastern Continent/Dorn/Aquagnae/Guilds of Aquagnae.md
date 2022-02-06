@@ -33,6 +33,6 @@ After the [[Revolution of 1819]], and the resulting creation of the [[Council of
 | [[Aquagnae Carpenters Guild]]  | 0%    |
 | [[Aquagnae Arcanists Guild]]   | 2%    |
 | [[Aquagnae Tailors Guild]]     | 5%    |
-| [[Aquagnae Soldiers Guild]]    | 10%    | 
+| [[Aquagnae Soldiers Guild]]    | 10%   | 
 | [[Aquagnae Artificiers Guild]] | 5%    |
 | [[Aquagnae Faithmens Guild]]   | 0%    |
