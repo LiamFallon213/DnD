@@ -29,10 +29,10 @@ After the [[Revolution of 1819]], and the resulting creation of the [[Council of
 | Guild Name                     | Favor |
 | ------------------------------ | ----- |
 | [[Aquagnae Farmers Union]]     | 0%    |
-| [[Aquagnae Smithing Guild]]    | 0%    |
+| [[Aquagnae Smithing Guild]]    | 5%    |
 | [[Aquagnae Carpenters Guild]]  | 0%    |
-| [[Aquagnae Arcanists Guild]]   | 0%    |
-| [[Aquagnae Tailors Guild]]     | 0%    |
-| [[Aquagnae Soldiers Guild]]    | 0%    | 
-| [[Aquagnae Artificiers Guild]] | 0%    |
+| [[Aquagnae Arcanists Guild]]   | 2%    |
+| [[Aquagnae Tailors Guild]]     | 5%    |
+| [[Aquagnae Soldiers Guild]]    | 10%    | 
+| [[Aquagnae Artificiers Guild]] | 5%    |
 | [[Aquagnae Faithmens Guild]]   | 0%    |
