@@ -1,9 +1,13 @@
-**What is the quest:** Collect sulpher from near [[]]
+**What is the quest:** Collect sulpher from near [[Icepeak]].
 
-**Who is giving it:**
+**Quest Type:** Fetch Quest
 
-**Why are they giving it:**
+**Who is giving it:** The Artificers and Arcanists guild
 
-**Explicit Rewards:**
+**Why are they giving it:** They need Sulfur
 
-**Loot:**
+**Explicit Rewards:** 50 gp per lb of Sulfur
+
+**Loot:** 
+
+**Obstacle:**
