@@ -4,4 +4,5 @@ Badowland is an influential city state with a good amount of surrounding territo
 
 Badowland is allies with [[Dorn]], and [[Dorn]] is it's primary trade partner. 
 
+Badowland is primarily a trade city.
 
