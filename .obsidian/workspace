@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 4.md",
+            "file": "Future Plot/Ideas Bin.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 4.md",
+            "file": "Future Plot/Ideas Bin.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Future Plot/Ideas Bin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Future Plot/Ideas Bin.md",
     "Sessions/Session 4.md",
     "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
@@ -127,7 +128,6 @@
     "Adventurers Stufff/Adventurers Card.md",
     "Adventurers Stufff/Adventurers Union.md",
     "NPC's/NPC Template Backup.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Smithing Guild.md",
-    "NPC's/Unimportant NPC's/Kelindor.md"
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Smithing Guild.md"
   ]
 }
