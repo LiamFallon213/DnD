@@ -18,6 +18,7 @@
 **Sex:** 
 
 ## Appearence:
+Person covered in wilted flowers that were once in bloom. 
 **Height:**
 **Race:** 
 **Hair:** 
@@ -28,7 +29,7 @@
 # Powers
 
 # Backstory
-Lorem Ipsum
+Driven into wilting by the corruption of the Shadowfell. Driven almost to insanity.
 
 
 

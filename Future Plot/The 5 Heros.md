@@ -6,7 +6,7 @@ They were sucessful, but [[Julius Franklin]] then turned on his allies. Having s
 
 [[Thran Avaernus]] is trapped deep in the underdark, in an arcane prison able to hold gods. Kept there for eternity.
 
-[[Pan Korr]] was imprisoned on the Shadowfell, she lies at the heart of darkness, where no light can exist. No plants can survive.  A dome of powerful arcane darkness a hundred miles across. Created by Wish.
+[[Pan Korr]] was imprisoned on the Shadowfell, she lies at the heart of darkness, where no light can exist. No plants can survive.  A dome of powerful arcane darkness a hundred miles across. Created by Wish, a side effect of this is the prolonged exposure to the dark energies of the shadowfell blinded her, so even if she escaped she could never see again.
 
 [[Sadami]] was one of the more powerful ones, her and [[Julius Franklin]] fought long and hard in the deserted areas of the world. Eventually Julius won out and used a Wish to trap her inside the reflections. She can travel between them, but can't escape, or effect the world on a large scale.
 
