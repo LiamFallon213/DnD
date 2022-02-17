@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Groups/Dragon War.md",
+            "file": "World Building/Timeline/Main World/Dragon War.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Groups/Dragon War.md",
-            "mode": "source"
+            "file": "World Building/Timeline/Main World/Dragon War.md",
+            "mode": "preview"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Groups/Dragon War.md",
+                "file": "World Building/Timeline/Main World/Dragon War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "World Building/Groups/Dragon War.md",
+    "World Building/Timeline/Main World/Dragon War.md",
+    "World Building/Locations/The Western Continent/The Western Continent.md",
+    "World Building/Locations/The Western Continent/Kroan Theocracy.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Dorn.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
+    "World Building/Locations/The Eastern Continent/The Eastern Continent.md",
+    "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
     "World Building/Groups/The Legendary Heros.md",
     "World Building/Groups/The Black Lotus.md",
-    "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
-    "NPC's/Plot Important NPC's/Thran Avaernus.md",
-    "NPC's/Plot Important NPC's/Pan Korr.md",
-    "NPC's/Plot Important NPC's/Sadami.md",
-    "NPC's/Plot Important NPC's/Atara.md",
-    "NPC's/Plot Important NPC's/Julius Franklin.md",
-    "NPC's/NPC Template.md"
+    "NPC's/Plot Important NPC's/Thran Avaernus.md"
   ]
 }
