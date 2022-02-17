@@ -13,7 +13,7 @@
   "evernoteView": true,
   "filePreviewOnHover": false,
   "sortFilesBy": "name",
-  "fixedHeaderInFileList": false,
+  "fixedHeaderInFileList": true,
   "createdYaml": false,
   "fileNameIsHeader": false
 }
