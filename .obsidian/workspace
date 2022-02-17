@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "09692772cffead7e",
+        "id": "65a8eca463333225",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "mindmapview",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Sadami.md",
-            "mode": "source"
+            "file": "World Building/Religons/Konro/Untitled mindmap.md"
           }
-        }
+        },
+        "group": "b140118a7e917548"
       },
       {
-        "id": "67ce31b2c77c19c8",
+        "id": "ae49f299fc567915",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "mindmapview",
           "state": {
-            "file": "World Building/Timeline/Main World/Dragon War.md",
-            "mode": "preview"
+            "file": "World Building/Religons/Konro/Untitled mindmap.md"
           }
-        }
+        },
+        "group": "b140118a7e917548"
       }
     ],
     "direction": "vertical"
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Sadami.md",
+                "file": "World Building/Religons/Konro/Untitled mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +113,17 @@
     "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "09692772cffead7e",
+  "active": "65a8eca463333225",
   "lastOpenFiles": [
-    "NPC's/Plot Important NPC's/Sadami.md",
-    "World Building/Timeline/Main World/Dragon War.md",
-    "World Building/Timeline/Main World/Untitled mindmap.md",
     "World Building/Religons/Konro/Untitled mindmap.md",
+    "World Building/Timeline/BBEG Home/The Last War.md",
+    "World Building/Timeline/Main World/Dragon War.md",
+    "NPC's/Plot Important NPC's/Sadami.md",
+    "World Building/Timeline/Main World/Untitled mindmap.md",
     "World Building/Religons/Konro/Konro.md",
     "World Building/Religons/Konro/Gods/Chikyū.md",
     "Future Plot/Ideas Bin.md",
     "Z-MISC/The Scouring.md",
-    "Z-MISC/Pre Campaign Setting Notes.md",
-    "Z-MISC/Plot Pre Campaign Planning.md"
+    "Z-MISC/Pre Campaign Setting Notes.md"
   ]
 }
