@@ -3,22 +3,22 @@
 
 **Current Location:**
 
-**Class:**
+**Class:** Level 20 Barbarian
 
-**Alignment:** True Neutral
+**Alignment:** Neutral Good
 
 **Alius's: **
-- Joe Don
+- God's Wrath
 
-**Goals:** Lorem Ipsum.
+**Goals:** To escape.
 
 # Biological Information
-**Age:** XX
-**Accent:**
-**Sex:** 
+**Age:** 143
+**Accent:** Russian
+**Sex:** Male
 
 ## Appearence:
-**Height:**
+**Height:**6' 7"
 **Race:** 
 **Hair:** 
 **Skin Color:** 

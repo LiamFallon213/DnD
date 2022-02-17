@@ -1,0 +1,1 @@
+100 years ago there were 5 great heros brought by the goeds, [[Julius Franklin]], [[Atara]], [[Thran Avaernus]], [[Pan Korr]], and [[]]
