@@ -1,6 +1,8 @@
 # General Information
 **Name:** Theodore Ceaser
 
+**Job:** Jewels and Wands
+
 **Current Location:** [[Aquagnae]]
 
 **Alignment:** Chaotic Neutral
@@ -18,13 +20,16 @@
 **Age:** 35
 
 **Accent:**
+**Sex:** Male
 
 ## Appearance:
 **Height:** 6'8"
 **Race:** Causation
 **Hair:** Short Black
+**Skin Color:** White
 **Eyes:** Green
-
+**Facial Hair:** None
+**Misc:** 
 
 
 # Backstory

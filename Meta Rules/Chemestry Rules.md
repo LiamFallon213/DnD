@@ -1,0 +1,1 @@
+https://www.dandwiki.com/wiki/Chemistry_(5e_Variant_Rule)

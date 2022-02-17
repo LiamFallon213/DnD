@@ -8,10 +8,13 @@
     "Mythril",
     "Greatwyrm",
     "Athenus",
-    "arcanely"
+    "arcanely",
+    "Badowland",
+    "Dorn"
   ],
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
-  "legacyEditor": true
+  "legacyEditor": true,
+  "defaultViewMode": "preview"
 }

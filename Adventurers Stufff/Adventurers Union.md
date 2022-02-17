@@ -13,3 +13,5 @@ The Adventurers Union is an international organization that is omnipresent acros
 
 ^094968
 
+Desk clerk is [[Malara]].
+

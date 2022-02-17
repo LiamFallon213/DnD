@@ -1,5 +1,5 @@
 # General Information
-**Name:** Jon Doe
+**Name:** Kelindor
 
 **Current Location:**
 
@@ -15,11 +15,11 @@
 # Biological Information
 **Age:** XX
 **Accent:**
-**Sex:** 
+**Sex:** Male
 
 ## Appearence:
 **Height:**
-**Race:** 
+**Race:** Human
 **Hair:** 
 **Skin Color:** 
 **Eyes:**

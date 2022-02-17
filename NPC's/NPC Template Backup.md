@@ -3,8 +3,6 @@
 
 **Current Location:**
 
-**Job:**
-
 **Alignment:** True Neutral
 
 **Alius's: **
@@ -15,18 +13,13 @@
 # Biological Information
 **Age:** XX
 **Accent:**
-**Sex:** 
-
 ## Appearence:
 **Height:**
 **Race:** 
 **Hair:** 
 **Skin Color:** 
-**Eyes:**
+**Eyes:** 
 **Facial Hair:** 
-
-# Powers
-
 # Backstory
 Lorem Ipsum
 
