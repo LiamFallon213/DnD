@@ -1,8 +1,13 @@
-| Illegal Act | Punishment | 
-| --- | ---------- |
+Laws of [[Aquagnae]]
+
+| Illegal Act | Punishment |
+| ----------- | ---------- |
+|             |            |
+
 # Personal Laws
 
-| Illegal Act | Punishment | 
+| Illegal Act | Punishment |
 | ----------- | ---------- |
 | Murder      | Death      |
+|             |            |
 |             |            |
