@@ -14,22 +14,22 @@
 
 # Biological Information
 **Age:** 143
+**Species:** Golith
 **Accent:** Russian
 **Sex:** Male
 
 ## Appearence:
-**Height:**6' 7"
+**Height:**7' 7"
 **Race:** 
-**Hair:** 
-**Skin Color:** 
-**Eyes:**
-**Facial Hair:** 
+**Hair:** None
+**Skin Color:** Bluish
+**Eyes:** Red
+**Facial Hair:** None
 
 # Powers
 
 # Backstory
-Lorem Ipsum
-
+Summoned into the [[The Legendary Heros]], ended the [[Dragon War]] then was betrayed by [[Julius Franklin]].
 
 
 
