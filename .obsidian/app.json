@@ -19,5 +19,6 @@
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
   "legacyEditor": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "communityPluginSortOrder": "download"
 }
