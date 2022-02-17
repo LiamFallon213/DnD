@@ -13,7 +13,7 @@
 **Goals:** Bring Peace
 
 # Biological Information
-**Age:** 23
+**Age:** 123 (bio 23)
 **Accent:**
 **Sex:** Female
 

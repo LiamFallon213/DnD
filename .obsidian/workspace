@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Franklin.md",
+            "file": "NPC's/Plot Important NPC's/Thran Avaernus.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Franklin.md",
+            "file": "NPC's/Plot Important NPC's/Thran Avaernus.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Julius Franklin.md",
+                "file": "NPC's/Plot Important NPC's/Thran Avaernus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "NPC's/Plot Important NPC's/Thran Avaernus.md",
     "NPC's/Plot Important NPC's/Julius Franklin.md",
+    "NPC's/Plot Important NPC's/Atara.md",
+    "NPC's/NPC Template.md",
     "Future Plot/The 5 Heros.md",
     "Future Plot/Ideas Bin.md",
     "Sessions/Session 4.md",
     "conflict-files-obsidian-git.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
-    "Locations/The Eastern Continent/Dorn/Dorn.md",
-    "NPC's/Julius Franklin.md",
-    "NPC's/NPC Template.md",
-    "Pasted image 20220113223102.png"
+    "Locations/The Eastern Continent/Dorn/Dorn.md"
   ]
 }
