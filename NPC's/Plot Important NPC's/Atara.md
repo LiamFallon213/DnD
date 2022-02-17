@@ -14,6 +14,7 @@
 
 # Biological Information
 **Age:** 123 (bio 23)
+**Species:** Human
 **Accent:**
 **Sex:** Female
 

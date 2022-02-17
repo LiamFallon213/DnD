@@ -20,7 +20,7 @@
 
 # Biological Information
 **Age:** 135 (biologically 35)
-
+**Species:** Human
 **Accent:**
 **Sex:** Male
 

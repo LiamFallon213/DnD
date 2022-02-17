@@ -14,6 +14,7 @@
 
 # Biological Information
 **Age:** XX
+**Species:** Plant person (ex-human)
 **Accent:**
 **Sex:** 
 

@@ -14,6 +14,7 @@
 
 # Biological Information
 **Age:** XX
+**Species:** Elf
 **Accent:**
 **Sex:** 
 

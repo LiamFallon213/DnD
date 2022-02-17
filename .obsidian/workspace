@@ -6,10 +6,11 @@
       {
         "id": "931d796c4ce90eff",
         "type": "leaf",
+        "dimension": 55.40275049115914,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Atara.md",
+            "file": "NPC's/Plot Important NPC's/Sadami.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
+        "dimension": 44.59724950884086,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Atara.md",
+            "file": "NPC's/Plot Important NPC's/Sadami.md",
             "mode": "preview"
           }
         },
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871
+    "width": 202
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Atara.md",
+                "file": "NPC's/Plot Important NPC's/Sadami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,25 +110,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 242.48309326171875,
     "collapsed": true
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "NPC's/Plot Important NPC's/Sadami.md",
+    "NPC's/Plot Important NPC's/Pan Korr.md",
     "NPC's/Plot Important NPC's/Atara.md",
     "NPC's/Plot Important NPC's/Julius Franklin.md",
-    "NPC's/Plot Important NPC's/Pan Korr.md",
-    "Future Plot/The 5 Heros.md",
-    "NPC's/Plot Important NPC's/Thran Avaernus.md",
-    "NPC's/Plot Important NPC's/Sadami.md",
     "NPC's/NPC Template.md",
-    "Future Plot/Overarching plot.md",
     "Future Plot/Ideas Bin.md",
-    "Future Plot/Untitled.md"
+    "Sessions/Session 4.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Icepeak.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+    "Meta Rules/Runes.md"
   ]
 }
