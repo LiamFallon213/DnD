@@ -39,7 +39,7 @@ Eventually after many years she ended up in Aquagnae.
 
 Some notable 
 
-Trolled a duke by taking a hit contract on a mistress then introduced them to their wife.
+Trolled a duke by taking a hit contract on a mistress then introduced the mistriss to the dukes wife.
 
 
 
