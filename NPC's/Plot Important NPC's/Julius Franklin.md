@@ -12,7 +12,7 @@
 - The Plague Lord
 - The Black Mage
 
-**Time since plane shift:** 15 years
+**Time since plane shift:** 150 years
 
 **Goals:** He wants to become the worlds emperor
 
