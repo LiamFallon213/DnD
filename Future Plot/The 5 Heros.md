@@ -6,7 +6,10 @@ They were sucessful, but [[Julius Franklin]] then turned on his allies. Having s
 
 [[Thran Avaernus]] is trapped deep in the underdark, in an arcane prison able to hold gods. Kept there for eternity.
 
-[[Pan Korr]] is trapped in the Shadowfell, where the dark energies sap her energy away. Her prison is atop a crumbling basalt tower, a small study.
+[[Pan Korr]] was petrified and pla
 
-[[Sadami]] was one of the more powerful ones, her and 
+[[Sadami]] was one of the more powerful ones, her and [[Julius Franklin]] fought long and hard in the deserted areas of the world. Eventully Julius won out and used a Wish to trap her inside the reflections. She can travel between them, but can't escape, or effect the world on a large scale.
 
+She has a small religious following, worshiping her as The Lady of the Mirrors.
+
+[[Atara]] knew to be ready, so she attacked [[Julius Franklin]] before he was ready. She nearly slayed him, but as she prepared the final blow, Julius used Wish to attempt to freeze her in time. However the Wish went wrong, and shattered her across time instead. This also resulted in Julius's inability to use Wish.
