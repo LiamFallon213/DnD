@@ -6,22 +6,23 @@
       {
         "id": "931d796c4ce90eff",
         "type": "leaf",
-        "dimension": 49.888392857142854,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+            "mode": "source"
+          }
         },
         "group": "6249b2daa2f11bb6"
       },
       {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
-        "dimension": 50.11160714285714,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline/BBEG Home/The Last War.md",
-            "mode": "preview"
+            "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+            "mode": "source"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -64,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871,
-    "collapsed": true
+    "width": 212.0083885192871
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,24 +108,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 242.48309326171875,
+    "width": 100,
     "collapsed": true
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Timeline/BBEG Home/The Last War.md",
-    "Ideas Bin.md",
-    "NPC's/Julius Franklin.md",
-    "Locations/The Eastern Continent/Dorn/Dorn.md",
-    "NPC's/NPC Template.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Faithmens Guild.md",
     "Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Smithing Guild.md",
-    "Adventurers Union.md",
-    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md"
+    "Locations/The Eastern Continent/Dorn/Dorn.md",
+    "NPC's/Julius Franklin.md",
+    "NPC's/NPC Template.md",
+    "Pasted image 20220113223102.png",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/River Engine.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/The Falls of Aquagnae.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
+    "Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Farmers Union.md"
   ]
 }
