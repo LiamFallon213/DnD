@@ -1,3 +1,3 @@
-The city again gets attacked, but this attack is far more intense.
+Threads from last session, The Black Hole Terrorist Attack
 
-Not only are there undead, but 
+**Goals:** Introduce [[Sadami]] AKA The Lady of the Mirrors.

@@ -8,7 +8,7 @@
 **Alignment:** Chaotic Good
 
 **Alius's: **
-- Joe Don
+-  The Lady of the Mirrors
 
 **Goals:** Lorem Ipsum.
 
