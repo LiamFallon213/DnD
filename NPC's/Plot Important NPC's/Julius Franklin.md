@@ -3,6 +3,8 @@
 
 **Job:** Jewels and Wands
 
+**Class:** Level 20 Wizard LEg endary
+
 **Current Location:** [[Aquagnae]]
 
 **Alignment:** Chaotic Neutral
