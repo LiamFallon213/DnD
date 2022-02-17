@@ -8,10 +8,9 @@
         "type": "leaf",
         "dimension": 55.40275049115914,
         "state": {
-          "type": "markdown",
+          "type": "mindmapview",
           "state": {
-            "file": "Adventurers Stufff/Adventurers Union.md",
-            "mode": "source"
+            "file": "World Building/Religons/Konro/Untitled mindmap.md"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -21,10 +20,9 @@
         "type": "leaf",
         "dimension": 44.59724950884086,
         "state": {
-          "type": "markdown",
+          "type": "mindmapview",
           "state": {
-            "file": "Adventurers Stufff/Adventurers Union.md",
-            "mode": "preview"
+            "file": "World Building/Religons/Konro/Untitled mindmap.md"
           }
         },
         "group": "6249b2daa2f11bb6"
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventurers Stufff/Adventurers Union.md",
+                "file": "World Building/Religons/Konro/Untitled mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +115,17 @@
     "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "931d796c4ce90eff",
+  "active": "9757d3154c8b42c4",
   "lastOpenFiles": [
-    "Adventurers Stufff/Adventurers Union.md",
-    "World Building/Timeline/BBEG Home/The Last War.md",
-    "World Building/Timeline/Graphic Timeline.md",
-    "World Building/Timeline/Main World/Dragon War.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
-    "NPC's/Past Important NPC/Xall Bloodfangs.md",
-    "NPC's/Plot Important NPC's/Sadami.md",
-    "Sessions/Session 4.md",
-    "Sessions/Session 2.md",
-    "Party Info/Gadfort Magorius.md"
+    "World Building/Religons/Konro/Untitled mindmap.md",
+    "World Building/Religons/Konro/Konro.md",
+    "World Building/Religons/Konro/Gods/Chikyū.md",
+    "Future Plot/Ideas Bin.md",
+    "Z-MISC/The Scouring.md",
+    "Z-MISC/Pre Campaign Setting Notes.md",
+    "Z-MISC/Plot Pre Campaign Planning.md",
+    "Z-MISC/Pasted image 20220113223102.png",
+    "Z-MISC/conflict-files-obsidian-git.md",
+    "Adventurers Stufff/Adventurers Union.md"
   ]
 }

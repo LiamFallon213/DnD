@@ -1,8 +1,8 @@
 The Adventurers Union is an international organization that is omnipresent across the globe. The Adventurers Guild is used for the many needs that Adventurers need to go through.
 
-''' ad-note
-a
-'''
+``` ad-note
+The Adventurers Union is not specific to [[Aquagnae]]
+```
 
 # Rankings
 | Ranking    | Level eq | Renown               | Realistic Threats to face | Examples                                                               |
