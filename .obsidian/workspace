@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Groups/The Legendary Heros.md",
+            "file": "World Building/Groups/Dragon War.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Groups/The Legendary Heros.md",
+            "file": "World Building/Groups/Dragon War.md",
             "mode": "source"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Groups/The Legendary Heros.md",
+                "file": "World Building/Groups/Dragon War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "World Building/Groups/Dragon War.md",
     "World Building/Groups/The Legendary Heros.md",
     "World Building/Groups/The Black Lotus.md",
     "World Building/Locations/The Eastern Continent/Badowland/Badowland.md",
@@ -127,7 +128,6 @@
     "NPC's/Plot Important NPC's/Sadami.md",
     "NPC's/Plot Important NPC's/Atara.md",
     "NPC's/Plot Important NPC's/Julius Franklin.md",
-    "NPC's/NPC Template.md",
-    "Future Plot/Ideas Bin.md"
+    "NPC's/NPC Template.md"
   ]
 }
