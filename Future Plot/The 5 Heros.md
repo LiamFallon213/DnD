@@ -2,3 +2,5 @@
 
 They were sucessful, but [[Julius Franklin]] then turned on his allies. Having seen the devistation of war twice now, he couldn't let this world die too.
 
+[[Julius Franklin|]]
+

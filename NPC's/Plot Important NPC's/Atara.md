@@ -1,7 +1,7 @@
 # General Information
 **Name:** Atara Malthus
 
-**Class**: Fighter lvl 20
+**Class**: Lvl 20 legendary fighter
 
 **Current Location:** [[Aquagnae]]
 

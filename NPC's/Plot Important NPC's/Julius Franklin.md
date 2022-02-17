@@ -3,7 +3,7 @@
 
 **Job:** Jewels and Wands
 
-**Class:** Level 20 Wizard LEg endary
+**Class:** Level 20 Wizard Legendary wizard.
 
 **Current Location:** [[Aquagnae]]
 

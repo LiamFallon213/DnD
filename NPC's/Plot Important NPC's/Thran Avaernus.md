@@ -3,7 +3,7 @@
 
 **Current Location:**
 
-**Class:** Level 20 Barbarian
+**Class:** Level 20 Legendary Barbarian
 
 **Alignment:** Neutral Good
 
