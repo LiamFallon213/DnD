@@ -4,28 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "931d796c4ce90eff",
+        "id": "1260b164d0cacddd",
         "type": "leaf",
-        "dimension": 55.40275049115914,
         "state": {
           "type": "mindmapview",
           "state": {
-            "file": "World Building/Religons/Konro/Untitled mindmap.md"
+            "file": "World Building/Timeline/Main World/Untitled mindmap.md"
           }
-        },
-        "group": "6249b2daa2f11bb6"
+        }
       },
       {
-        "id": "9757d3154c8b42c4",
+        "id": "09692772cffead7e",
         "type": "leaf",
-        "dimension": 44.59724950884086,
         "state": {
-          "type": "mindmapview",
+          "type": "markdown",
           "state": {
-            "file": "World Building/Religons/Konro/Untitled mindmap.md"
+            "file": "World Building/Timeline/Main World/Dragon War.md",
+            "mode": "preview"
           }
-        },
-        "group": "6249b2daa2f11bb6"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Religons/Konro/Untitled mindmap.md",
+                "file": "World Building/Timeline/Main World/Untitled mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +112,10 @@
     "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "9757d3154c8b42c4",
+  "active": "1260b164d0cacddd",
   "lastOpenFiles": [
+    "World Building/Timeline/Main World/Untitled mindmap.md",
+    "World Building/Timeline/Main World/Dragon War.md",
     "World Building/Religons/Konro/Untitled mindmap.md",
     "World Building/Religons/Konro/Konro.md",
     "World Building/Religons/Konro/Gods/Chikyū.md",
@@ -124,8 +123,6 @@
     "Z-MISC/The Scouring.md",
     "Z-MISC/Pre Campaign Setting Notes.md",
     "Z-MISC/Plot Pre Campaign Planning.md",
-    "Z-MISC/Pasted image 20220113223102.png",
-    "Z-MISC/conflict-files-obsidian-git.md",
-    "Adventurers Stufff/Adventurers Union.md"
+    "Z-MISC/Pasted image 20220113223102.png"
   ]
 }
