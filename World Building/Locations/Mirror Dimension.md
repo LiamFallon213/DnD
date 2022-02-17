@@ -1,0 +1,1 @@
+The Mirror Dimension is a non concrete, non-euclidian dimension which lies in all reflections.  Certain creatures use it for transportation, and [[Sadami]] is trapped there.

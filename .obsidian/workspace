@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 55.40275049115914,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NPC's/Plot Important NPC's/Sadami.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "6249b2daa2f11bb6"
       },
@@ -23,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Sadami.md",
+            "file": "World Building/Locations/Mirror Dimension.md",
             "mode": "preview"
           }
         },
@@ -83,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Sadami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +115,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "World Building/Locations/Mirror Dimension.md",
     "NPC's/Plot Important NPC's/Sadami.md",
     "NPC's/Plot Important NPC's/Pan Korr.md",
     "Sessions/Session 4.md",
@@ -127,7 +124,6 @@
     "World Building/Timeline/Main World/Dragon War.md",
     "World Building/Locations/The Western Continent/The Western Continent.md",
     "World Building/Locations/The Western Continent/Kroan Theocracy.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Dorn.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md"
+    "World Building/Locations/The Eastern Continent/Dorn/Dorn.md"
   ]
 }
