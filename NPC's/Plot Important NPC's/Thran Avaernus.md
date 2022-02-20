@@ -1,5 +1,5 @@
 # General Information
-**Name:** Thran Avaernus
+**Name:** Khrall Avaernus
 
 **Current Location:**
 
