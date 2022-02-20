@@ -5,3 +5,5 @@ This group defeated the Dragon Tyrant [[Xall Bloodfangs]], ending the [[Dragon W
 A year after the end of the [[Dragon War]], [[Julius Franklin]] betrayed the group and imprisoned every member.
 
 As punishment for this, the gods removed his immortality, however he remained able to remember alternate timelines.
+
+10 years after the war, the party broke
