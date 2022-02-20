@@ -1,15 +1,15 @@
 After the [[Revolution of 1819]], and the resulting creation of the [[Council of Aquagnae]]. A number of guilds and unions became prominent factions within the city
 
-| Guild Name                     | Seats | Current Gov Members |
-| ------------------------------ | ----- | ------------------- |
-| [[Aquagnae Farmers Union]]     | 35    | Y                   |
-| [[Aquagnae Smithing Guild]]    | 13    | N                   |
-| [[Aquagnae Carpenters Guild]]  | 12    | N                   |
-| [[Aquagnae Arcanists Guild]]   | 10    | Y                   |
-| [[Aquagnae Tailors Guild]]     | 10    | N                   |
-| [[Aquagnae Soldiers Guild]]    | 9     | N                   |
-| [[Aquagnae Artificiers Guild]] | 9     | Y                   |
-| [[Aquagnae Faithmens Guild]]   | 4     | Y                   |
+| Guild Name                     | Seats | Current Gov Members | Color  |
+| ------------------------------ | ----- | ------------------- | ------ |
+| [[Aquagnae Farmers Union]]     | 35    | Y                   |        |
+| [[Aquagnae Smithing Guild]]    | 13    | N                   |        |
+| [[Aquagnae Carpenters Guild]]  | 12    | N                   |        |
+| [[Aquagnae Arcanists Guild]]   | 10    | Y                   | Purple | 
+| [[Aquagnae Tailors Guild]]     | 10    | N                   |        |
+| [[Aquagnae Soldiers Guild]]    | 9     | N                   |        |
+| [[Aquagnae Artificiers Guild]] | 9     | Y                   |        |
+| [[Aquagnae Faithmens Guild]]   | 4     | Y                   |        |
 
 
 

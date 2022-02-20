@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Carpenters Guild.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Carpenters Guild.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+                "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Carpenters Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Carpenters Guild.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Artificiers Guild.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
     "NPC's/Guild Leaders/Kevin.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Soldiers Guild.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Smithing Guild.md",
     "NPC's/Past Important NPC/Aquagnae Tailors Guild.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Farmers Union.md",
-    "NPC's/Guild Leaders/L'kor.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Faithmens Guild.md",
-    "NPC's/Guild Leaders/Konronal.md",
-    "NPC's/Guild Leaders/Gimly.md"
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Farmers Union.md"
   ]
 }
