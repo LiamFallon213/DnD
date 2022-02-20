@@ -1,2 +1,2 @@
-**Leader:** [[Korr]], Archmage 
+**Leader:** [[Gandalf]], Archmage
 Scottish sounding guy at desk.

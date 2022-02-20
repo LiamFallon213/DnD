@@ -1,1 +1,1 @@
-**Leader:** Kevin
+**Leader:** [[Kevin]]

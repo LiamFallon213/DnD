@@ -1,1 +1,1 @@
-**Leader:** [[Thranal]], Woodmaster
+**Leader:** [[Vlaran]], Woodmaster

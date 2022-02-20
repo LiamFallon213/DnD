@@ -1,1 +1,1 @@
-is the leader of the Artificiers guild, and the Guildmaster of the city.
+**Leader:** [[Thran]] is the leader of the Artificiers guild/
