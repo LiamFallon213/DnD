@@ -7,8 +7,8 @@ After the [[Revolution of 1819]], and the resulting creation of the [[Council of
 | [[Aquagnae Carpenters Guild]]  | 12    | N                   |
 | [[Aquagnae Arcanists Guild]]   | 10    | Y                   |
 | [[Aquagnae Tailors Guild]]     | 10    | N                   |
-| [[Aquagnae Soldiers Guild]]    | 8     | N                   |
-| [[Aquagnae Artificiers Guild]] | 8     | Y                   |
+| [[Aquagnae Soldiers Guild]]    | 9     | N                   |
+| [[Aquagnae Artificiers Guild]] | 9     | Y                   |
 | [[Aquagnae Faithmens Guild]]   | 4     | Y                   |
 
 
