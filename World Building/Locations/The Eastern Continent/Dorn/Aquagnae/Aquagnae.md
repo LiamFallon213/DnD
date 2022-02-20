@@ -3,8 +3,10 @@
 Sound track: https://viewsync.net/watch?v=Da9S9yjZZP4&t=0&v=u73l0yMy4WU&t=0&mode=solo
 
  **Population:** 37,000
+ 
+ **Prime Minister:** Korr, Archmage
 
-** Government Structure:** Syndicalism
+**Government Structure:** Syndicalism
 
 **Prominent Races:** 
 - Human (70%)
