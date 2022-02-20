@@ -9,21 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/Blackhole bomb.md",
+            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "76aa50597efcd939"
       },
       {
-        "id": "9d24abea345b8242",
+        "id": "88d61535afc7a10d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Atara.md",
+            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "76aa50597efcd939"
       }
     ],
     "direction": "vertical"
@@ -63,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202
+    "width": 165
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Plot things/Blackhole bomb.md",
+                "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +117,15 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Artificiers Guild.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Faithmens Guild.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Carpenters Guild.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
     "Plot/Plot things/Blackhole bomb.md",
     "Plot/Plot things/The 5 Heros.md",
     "Plot/Untitled.md",
     "Plot/Future Plot/Overarching plot.md",
-    "NPC's/Plot Important NPC's/Atara.md",
-    "World Building/Religons/Konro/Untitled mindmap.md",
-    "World Building/Timeline/BBEG Home/The Last War.md",
-    "World Building/Timeline/Main World/Dragon War.md",
-    "NPC's/Plot Important NPC's/Sadami.md",
-    "World Building/Timeline/Main World/Untitled mindmap.md"
+    "NPC's/Plot Important NPC's/Atara.md"
   ]
 }
