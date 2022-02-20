@@ -7,8 +7,22 @@
         "id": "65a8eca463333225",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Plot/Plot things/Blackhole bomb.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9d24abea345b8242",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NPC's/Plot Important NPC's/Atara.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plot/Plot things/Blackhole bomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +115,15 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "Plot/Plot things/Blackhole bomb.md",
+    "Plot/Plot things/The 5 Heros.md",
+    "Plot/Untitled.md",
+    "Plot/Future Plot/Overarching plot.md",
+    "NPC's/Plot Important NPC's/Atara.md",
     "World Building/Religons/Konro/Untitled mindmap.md",
     "World Building/Timeline/BBEG Home/The Last War.md",
     "World Building/Timeline/Main World/Dragon War.md",
     "NPC's/Plot Important NPC's/Sadami.md",
-    "World Building/Timeline/Main World/Untitled mindmap.md",
-    "World Building/Religons/Konro/Konro.md",
-    "World Building/Religons/Konro/Gods/Chikyū.md",
-    "Future Plot/Ideas Bin.md",
-    "Z-MISC/The Scouring.md",
-    "Z-MISC/Pre Campaign Setting Notes.md"
+    "World Building/Timeline/Main World/Untitled mindmap.md"
   ]
 }
