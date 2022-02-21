@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta Rules/Runes.md",
+            "file": "World Building/Religons/Konro/Divine Council.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta Rules/Runes.md",
+            "file": "World Building/Religons/Konro/Divine Council.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta Rules/Runes.md",
+                "file": "World Building/Religons/Konro/Divine Council.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +115,17 @@
     "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "65a8eca463333225",
+  "active": "88d61535afc7a10d",
   "lastOpenFiles": [
+    "World Building/Religons/Konro/Divine Council.md",
+    "World Building/Religons/Konro/Gods/Tsuki.md",
+    "World Building/Religons/Konro/Gods/Umi.md",
+    "World Building/Religons/Konro/Gods/Shin.md",
+    "World Building/Religons/Konro/Konro.md",
+    "World Building/Religons/Konro/Gods/Sensō.md",
+    "World Building/Religons/Konro/Gods/Jinmei.md",
+    "World Building/Religons/Konro/Gods/Taiyō.md",
     "Meta Rules/Runes.md",
-    "Meta Rules/Chemestry Rules.md",
-    "Prices/Material Costs.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Untitled.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Faithmens Guild.md",
-    "World Building/Groups/The Legendary Heros.md",
-    "World Building/Locations/Mirror Dimension.md",
-    "World Building/Timeline/BBEG Home/The Last War.md",
-    "World Building/Timeline/Main World/Dragon War.md",
-    "NPC's/Plot Important NPC's/Atara.md"
+    "Meta Rules/Chemestry Rules.md"
   ]
 }

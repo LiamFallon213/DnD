@@ -4,4 +4,4 @@ They are drawn with the components, often dissolved into a medium.
 
 The shape is the embodiment of the words, thoughts, and movements used to cast the spells.
 
-Some can 
+Base use is only once, can be upgraded.
