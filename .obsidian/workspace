@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Faithmens Guild.md",
+            "file": "Prices/Material Costs.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Faithmens Guild.md",
+            "file": "Prices/Material Costs.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Faithmens Guild.md",
+                "file": "Prices/Material Costs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,8 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "Prices/Material Costs.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Untitled.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Faithmens Guild.md",
     "World Building/Groups/The Legendary Heros.md",
     "World Building/Locations/Mirror Dimension.md",
@@ -124,8 +126,6 @@
     "World Building/Timeline/Main World/Dragon War.md",
     "NPC's/Plot Important NPC's/Atara.md",
     "NPC's/Plot Important NPC's/Sadami.md",
-    "NPC's/Plot Important NPC's/Pan Korr.md",
-    "NPC's/Plot Important NPC's/Julius Franklin.md",
-    "NPC's/Plot Important NPC's/Thran Avaernus.md"
+    "NPC's/Plot Important NPC's/Pan Korr.md"
   ]
 }
