@@ -13,3 +13,11 @@ They were sucessful, but [[Julius Franklin]] then turned on his allies. Having s
 She has a small religious following, worshiping her as The Lady of the Mirrors.
 
 [[Atara]] knew to be ready, so she attacked [[Julius Franklin]] before he was ready. She nearly slayed him, but as she prepared the final blow, Julius used Wish to attempt to freeze her in time. However the Wish went wrong, and shattered her across time instead. This also resulted in Julius's inability to use Wish.
+
+They all had a symbol, 
+
+| Name   | Symbol         |
+| ------ | -------------- |
+| Atara  | Lightnningbolt |
+| Julius | Oni Mask       |
+|        |                |

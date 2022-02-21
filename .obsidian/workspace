@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Religons/Konro/Divine Council.md",
+            "file": "Plot/Plot things/The 5 Heros.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Religons/Konro/Divine Council.md",
+            "file": "Plot/Plot things/The 5 Heros.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Religons/Konro/Divine Council.md",
+                "file": "Plot/Plot things/The 5 Heros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,8 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "Plot/Plot things/The 5 Heros.md",
+    "NPC's/Plot Important NPC's/Atara.md",
     "World Building/Religons/Konro/Divine Council.md",
     "World Building/Religons/Konro/Gods/Jinmei.md",
     "World Building/Religons/Konro/Gods/Taiyō.md",
@@ -124,8 +126,6 @@
     "World Building/Religons/Konro/Kon.md",
     "World Building/Religons/Konro/Gods/Tsuki.md",
     "World Building/Religons/Konro/Gods/Umi.md",
-    "World Building/Religons/Konro/Gods/Shin.md",
-    "World Building/Religons/Konro/Gods/Sensō.md",
-    "Meta Rules/Runes.md"
+    "World Building/Religons/Konro/Gods/Shin.md"
   ]
 }
