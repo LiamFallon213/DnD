@@ -16,10 +16,10 @@ She has a small religious following, worshiping her as The Lady of the Mirrors.
 
 They all had a symbol, 
 
-| Name   | Symbol           |
-| ------ | ---------------- |
-| Atara  | Lightningbolt    |
-| Julius | Oni Mask         |
-| Sadami | Scroll           |
-| Pan    | Tree             |
-| Thran  | Hammer and Anvil | 
+| Name   | Symbol        |
+| ------ | ------------- |
+| Atara  | Lightningbolt |
+| Julius | Oni Mask      |
+| Sadami | Scroll        |
+| Pan    | Tree          |
+| Thran  | Anvil         | 
