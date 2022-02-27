@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Party Items.md",
+            "file": "NPC's/Plot Important NPC's/Julius Franklin.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Party Items.md",
+            "file": "NPC's/Plot Important NPC's/Julius Franklin.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party Info/Party Items.md",
+                "file": "NPC's/Plot Important NPC's/Julius Franklin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "NPC's/Plot Important NPC's/Julius Franklin.md",
     "Party Info/Party Items.md",
     "NPC's/Plot Important NPC's/Sadami.md",
     "NPC's/Past Important NPC/Aquagnae Tailors Guild.md",
@@ -125,7 +126,6 @@
     "NPC's/Plot Important NPC's/Pan Korr.md",
     "NPC's/Plot Important NPC's/Thran Avaernus.md",
     "Plot/Plot things/The 5 Heros.md",
-    "NPC's/Badowland.md",
-    "NPC's/Plot Important NPC's/Julius Franklin.md"
+    "NPC's/Badowland.md"
   ]
 }

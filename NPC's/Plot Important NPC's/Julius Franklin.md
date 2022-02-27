@@ -18,6 +18,11 @@
 
 **Goals:** He wants to become the worlds emperor
 
+
+# Equipment not on sheet
+Ruins Wake (Exualted)
+Ring of Winter
+
 # Biological Information
 **Age:** 135 (biologically 35)
 **Species:** Human
