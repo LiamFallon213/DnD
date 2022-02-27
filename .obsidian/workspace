@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/The 5 Heros.md",
+            "file": "Custom Items/Cursed AF ring.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/The 5 Heros.md",
-            "mode": "preview"
+            "file": "Custom Items/Cursed AF ring.md",
+            "mode": "source"
           }
         },
         "group": "76aa50597efcd939"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Plot things/The 5 Heros.md",
+                "file": "Custom Items/Cursed AF ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,8 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "Custom Items/Cursed AF ring.md",
+    "Party Info/Party Items.md",
     "Plot/Plot things/The 5 Heros.md",
     "NPC's/Plot Important NPC's/Atara.md",
     "World Building/Religons/Konro/Divine Council.md",
@@ -124,8 +126,6 @@
     "World Building/Religons/Konro/Gods/Taiyō.md",
     "World Building/Religons/Konro/Konro.md",
     "World Building/Religons/Konro/Kon.md",
-    "World Building/Religons/Konro/Gods/Tsuki.md",
-    "World Building/Religons/Konro/Gods/Umi.md",
-    "World Building/Religons/Konro/Gods/Shin.md"
+    "World Building/Religons/Konro/Gods/Tsuki.md"
   ]
 }
