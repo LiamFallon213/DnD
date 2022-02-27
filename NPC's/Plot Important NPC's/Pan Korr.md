@@ -30,7 +30,7 @@ Person covered in wilted flowers that were once in bloom.
 # Powers
 
 # Backstory
-Driven into wilting by the corruption of the Shadowfell. Driven almost to insanity.
+Driven into wilting by the corruption of the Shadowfell, can use her magic to influence minds just enough to be be a fleeting presence on the prime material plane.
 
 
 
