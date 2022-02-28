@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
+            "file": "Custom Items/Ruins Wake.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
+            "file": "Custom Items/Ruins Wake.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Pan Korr.md",
+                "file": "Custom Items/Ruins Wake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "Custom Items/Ruins Wake.md",
     "NPC's/Plot Important NPC's/Pan Korr.md",
     "NPC's/Plot Important NPC's/Julius Franklin.md",
     "NPC's/Plot Important NPC's/Atara.md",
@@ -125,7 +126,6 @@
     "NPC's/Past Important NPC/Aquagnae Tailors Guild.md",
     "NPC's/Past Important NPC/Xall Bloodfangs.md",
     "NPC's/Plot Important NPC's/Thran Avaernus.md",
-    "Plot/Plot things/The 5 Heros.md",
-    "NPC's/Badowland.md"
+    "Plot/Plot things/The 5 Heros.md"
   ]
 }
