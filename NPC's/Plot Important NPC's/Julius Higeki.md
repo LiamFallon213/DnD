@@ -63,7 +63,9 @@ Decades later in 90 ADW, Julius was on a research trip when he first encountered
 
 He searched for information on new diseases and also discovered [[The Bloomplague]], and [[The Sporebloom]]. All on the western continent. He was able to find the sources of them, [[The Bloomplague]] was seeping in from the fey wild. [[The Sporebloom]] was seeping in from the shadowfell, and [[The Blight]] being the most dangerous was native to the Negative Plane, home to the [[Nightwraiths]].
 
-Julius colledted evidence of these plagues for 5 years, then  presented them to the higher ups of many countries, including [[Dorn]], and [[Badowland]]. 
+Julius collected evidence of these plagues for 5 years, then presented them to the higher ups of many countries, including [[Dorn]], and [[Badowland]]. 
+
+They did nothing, convincing Julius that the only way for them to defeat these great threats was to 
 
 ---
 
