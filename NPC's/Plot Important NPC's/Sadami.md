@@ -32,7 +32,7 @@ Level 20 Wizard: No Wish
 # Backstory
 Sadami grew up in 20'th century Tokyo and died in the 1995 Gas Attacks.
 
-She was a member of [[The Legendary Heros]], and was close to [[Julius Franklin]]. She used Wish to help the fight with [[Xall Bloodfangs]], and lost the ability to cast Wish.
+She was a member of [[The Legendary Heros]], and was close to [[Julius Higeki]]. She used Wish to help the fight with [[Xall Bloodfangs]], and lost the ability to cast Wish.
 
 Wish was used to imprison her in the [[Mirror Dimension]].
 

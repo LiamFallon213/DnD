@@ -1,6 +1,6 @@
 # BBEG
 
-**Name:** [[Julius Franklin]]
+**Name:** [[Julius Higeki]]
 IDEA 1
 ***
 ## Idea 1

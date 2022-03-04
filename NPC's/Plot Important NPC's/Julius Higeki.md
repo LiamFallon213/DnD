@@ -16,7 +16,8 @@
 
 **Time since plane shift:** 115 years
 
-**Goals:** He wants to become the worlds emperor
+**Motivations:** Julius saw his world bathed in thermonuclear fire. He honestly believes the only way to prevent this is to rule the earth and prevent nuclear technology from ever being developed.
+
 
 
 # Equipment not on sheet
@@ -45,7 +46,7 @@ Julius was born in Cheyanne Wyoming on October 27th, 1942.  To Amaya Smith and T
 
 This started a nuclear war between the Soviets and the West. Julius watched the minute man missiles fly out of their silos from his house outside. He tried to get home but before he got there a nuclear weapon obliterated the city. He lived for weeks after the war, but died to radiation poisoning.
 
-He was pulled into the new world, and decided to make it so that couldn't happen. Humanity needed a strong leader to prevent war from happening again. He would have peace, and it didn't matter how many had to die to achieve it.
+He was pulled into the new world, and decided to make it so that couldn't happen. Humanity needed a strong leader to prevent war from happening again. He would have peace, at any price.
 
 ## Post Shift
 After the plane shift, Julius took a new name, Jupiter Asclepius. Jupiter being the king of the gods, and thenus from Athena, the roman god of Wisdom. He went on to build up his arcane abilities into one of the greatest on the planet. He build a magic shop, and became high council to the Arcanists guild.

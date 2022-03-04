@@ -29,7 +29,7 @@
 # Powers
 
 # Backstory
-Summoned into the [[The Legendary Heros]], ended the [[Dragon War]] then was betrayed by [[Julius Franklin]].
+Summoned into the [[The Legendary Heros]], ended the [[Dragon War]] then was betrayed by [[Julius Higeki]].
 
 
 

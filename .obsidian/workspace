@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "65a8eca463333225",
+        "id": "931d796c4ce90eff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Custom Items/Ruins Wake.md",
+            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
             "mode": "source"
           }
         },
-        "group": "76aa50597efcd939"
+        "group": "6249b2daa2f11bb6"
       },
       {
-        "id": "88d61535afc7a10d",
+        "id": "9757d3154c8b42c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Custom Items/Ruins Wake.md",
+            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
             "mode": "preview"
           }
         },
-        "group": "76aa50597efcd939"
+        "group": "6249b2daa2f11bb6"
       }
     ],
     "direction": "vertical"
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372
+    "width": 212.0083885192871
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Items/Ruins Wake.md",
+                "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,31 +101,32 @@
             }
           },
           {
-            "id": "f2a4ad83a5b9c427",
+            "id": "e017d9270b751709",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 242.48309326171875,
+    "width": 100,
     "collapsed": true
   },
-  "active": "88d61535afc7a10d",
+  "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Custom Items/Ruins Wake.md",
-    "NPC's/Plot Important NPC's/Pan Korr.md",
-    "NPC's/Plot Important NPC's/Julius Franklin.md",
+    "NPC's/Plot Important NPC's/Julius Higeki.md",
     "NPC's/Plot Important NPC's/Atara.md",
-    "Party Info/Party Items.md",
-    "NPC's/Plot Important NPC's/Sadami.md",
-    "NPC's/Past Important NPC/Aquagnae Tailors Guild.md",
-    "NPC's/Past Important NPC/Xall Bloodfangs.md",
+    "NPC's/Plot Important NPC's/Pan Korr.md",
+    "Future Plot/The 5 Heros.md",
     "NPC's/Plot Important NPC's/Thran Avaernus.md",
-    "Plot/Plot things/The 5 Heros.md"
+    "NPC's/Plot Important NPC's/Sadami.md",
+    "NPC's/NPC Template.md",
+    "Future Plot/Overarching plot.md",
+    "Future Plot/Ideas Bin.md",
+    "Future Plot/Untitled.md"
   ]
 }

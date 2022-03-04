@@ -4,4 +4,4 @@ The session starts with each person describing how they die. Then they awaken in
 
 As they enter [[Aquagnae]] they are asked about what happened on the boat.  They are given some $ and released. They go to the headquarters of the [[Adventurers Union]] and are able to become a bronze level adventurer. They are then able to start the campaign as a whole.
 
-They then go and meet [[Julius Franklin|The Black Mage]] who gives Lavender a Dark Gift (3 uses of Raise Dead).
+They then go and meet [[Julius Higeki|The Black Mage]] who gives Lavender a Dark Gift (3 uses of Raise Dead).
