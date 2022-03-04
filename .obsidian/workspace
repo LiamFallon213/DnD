@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+            "file": "Plot/Plot things/The Great Plagues/The Sporebloom.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+            "file": "Plot/Plot things/The Great Plagues/The Sporebloom.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+                "file": "Plot/Plot things/The Great Plagues/The Sporebloom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +115,10 @@
     "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "65a8eca463333225",
+  "active": "88d61535afc7a10d",
   "lastOpenFiles": [
-    "NPC's/Plot Important NPC's/Julius Higeki.md",
     "Plot/Plot things/The Great Plagues/The Sporebloom.md",
+    "NPC's/Plot Important NPC's/Julius Higeki.md",
     "Plot/Plot things/The Great Plagues/Great Plagues.md",
     "Plot/Plot things/The Great Plagues/The Bloomplague.md",
     "Plot/Plot things/The Great Plagues/The Blight.md",

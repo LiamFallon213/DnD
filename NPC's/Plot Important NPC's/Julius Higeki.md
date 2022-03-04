@@ -11,7 +11,6 @@
 
 **Alius's: **
 - Jupiter Alliendrus (ah-len-drus)
-- The Plague Lord
 - The Black Mage
 
 **Time since plane shift:** 115 years
@@ -67,7 +66,11 @@ Julius collected evidence of these plagues for 5 years, then presented them to t
 
 They did nothing, convincing Julius that the only way for them to defeat these great threats was to take power himself. He quickly forged records for himself in [[Aquagnae]] and became one of the leaders of the [[Aquagnae Arcanists Guild]].
 
-He always wanted to know more magic, but now he needed it more then ever, he had to know what these diseases were. They couldn't be immediatly cured by divine magic trivially. Both [[The Sporebloom]] and [[The Bloomplague]] needed at least less
+He always wanted to know more magic, but now he needed it more than ever, he had to know what these diseases were. They couldn't be immediately cured by divine magic, trivially. Both [[The Sporebloom]] and [[The Bloomplague]] required at least lesser restoration to save a living being infected. [[The Blight]] requires greater restoration to fully cure.
+
+However, the resurrected entities that have fully transformed are uncurable, as there is nothing left to cure.
+
+As powerful as Julius is, he can't fight a threat like this, there is no single source, it is a global issue. The entire world must fight to eliminate this threat for good.
 
 ---
 
