@@ -50,6 +50,7 @@ Despite the best efforts, on his 20th birthday, a soviet submarine launched a nu
 
 This started a nuclear war between the Soviets and the West. Julius watched the minute man missiles fly out of their silos from his house outside. He tried to get home but before he got there a nuclear weapon obliterated the city. 
 
+[[The Last War]]
 
 He was pulled into the new world, and decided to make it so that couldn't happen. Humanity needed a strong leader to prevent war from happening again. He would have peace, at any price.
 

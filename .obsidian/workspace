@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/The 5 Heros.md",
+            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/The 5 Heros.md",
+            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Plot things/The 5 Heros.md",
+                "file": "NPC's/Plot Important NPC's/Pan Korr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "NPC's/Plot Important NPC's/Pan Korr.md",
+    "NPC's/Plot Important NPC's/Julius Higeki.md",
+    "World Building/Timeline/BBEG Home/The Last War.md",
     "Plot/Plot things/The 5 Heros.md",
     "Plot/Plot things/Blackhole bomb.md",
     "Plot/Future Plot/Overarching plot.md",
     "Plot/Future Plot/Ideas Bin.md",
-    "NPC's/Plot Important NPC's/Julius Higeki.md",
     "Sessions/Session 5.md",
     "NPC's/Plot Important NPC's/Seisui.md",
-    "Sessions/[Julius Higeki.md",
-    "Sessions/Session 1 - Every End is a New Beginning.md",
-    "NPC's/Plot Important NPC's/Session 5.md"
+    "Sessions/[Julius Higeki.md"
   ]
 }
