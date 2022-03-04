@@ -65,7 +65,9 @@ He searched for information on new diseases and also discovered [[The Bloomplagu
 
 Julius collected evidence of these plagues for 5 years, then presented them to the higher ups of many countries, including [[Dorn]], and [[Badowland]]. 
 
-They did nothing, convincing Julius that the only way for them to defeat these great threats was to 
+They did nothing, convincing Julius that the only way for them to defeat these great threats was to take power himself. He quickly forged records for himself in [[Aquagnae]] and became one of the leaders of the [[Aquagnae Arcanists Guild]].
+
+He always wanted to know more magic, but now he needed it more then ever, he had to know what these diseases were. They couldn't be immediatly cured by divine magic trivially. Both [[The Sporebloom]] and [[The Bloomplague]] needed at least less
 
 ---
 
