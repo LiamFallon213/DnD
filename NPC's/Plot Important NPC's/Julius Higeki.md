@@ -59,7 +59,11 @@ He went on to build up his arcane abilities into one of the greatest on the plan
 
 However this wasn't enough for him to stop the war of 1313, so he decided to go further. He stepped into black, old magic. In doing so he found the power he so wanted, he commands the monster armies that siege the kingdoms of man. He then took a new name as his alius, The Black Mage. 
 
-Decades later in 90 ADW, Julius was on a research trip when he first encountered [[The Blight]]. This new infe
+Decades later in 90 ADW, Julius was on a research trip when he first encountered [[The Blight]]. This new infection shocked him.
+
+He searched for information on new diseases and also discovered [[The Bloomplague]], and [[The Sporebloom]]. All on the western continent. He was able to find the sources of them, [[The Bloomplague]] was seeping in from the fey wild. [[The Sporebloom]] was seeping in from the shadowfell, and [[The Blight]] being the most dangerous was native to the Negative Plane, home to the [[Nightwraiths]].
+
+Julius colledted evidence of these plagues for 5 years, then  presented them to the higher ups of many countries, including [[Dorn]], and [[Badowland]]. 
 
 ---
 
