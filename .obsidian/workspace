@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+            "file": "Plot/Plot things/The 5 Heros.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+            "file": "Plot/Plot things/The 5 Heros.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+                "file": "Plot/Plot things/The 5 Heros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "Plot/Plot things/The 5 Heros.md",
+    "Plot/Plot things/Blackhole bomb.md",
+    "Plot/Future Plot/Overarching plot.md",
+    "Plot/Future Plot/Ideas Bin.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
     "Sessions/Session 5.md",
     "NPC's/Plot Important NPC's/Seisui.md",
     "Sessions/[Julius Higeki.md",
     "Sessions/Session 1 - Every End is a New Beginning.md",
-    "NPC's/Plot Important NPC's/Session 5.md",
-    "META NOTES.md",
-    "NPC's/Plot Important NPC's/Atara.md",
-    "NPC's/Plot Important NPC's/Pan Korr.md",
-    "Future Plot/The 5 Heros.md"
+    "NPC's/Plot Important NPC's/Session 5.md"
   ]
 }
