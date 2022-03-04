@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/Great Plagues.md",
+            "file": "Plot/Plot things/The Great Plagues/The Bloomplague.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/Great Plagues.md",
+            "file": "Plot/Plot things/The Great Plagues/The Bloomplague.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Plot things/Great Plagues.md",
+                "file": "Plot/Plot things/The Great Plagues/The Bloomplague.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
-    "Plot/Plot things/Great Plagues.md",
-    "Plot/Plot things/The Blight.md",
+    "Plot/Plot things/The Great Plagues/The Bloomplague.md",
+    "Plot/Plot things/The Great Plagues/The Sporebloom.md",
+    "Plot/Plot things/The Great Plagues/Great Plagues.md",
+    "Plot/Plot things/The Great Plagues/The Blight.md",
     "Plot/Future Plot/Ideas Bin.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
     "Custom Items/Ruins Wake.md",
     "NPC's/Plot Important NPC's/Pan Korr.md",
     "NPC's/Plot Important NPC's/Julius Franklin.md",
-    "NPC's/Plot Important NPC's/Atara.md",
-    "Party Info/Party Items.md",
-    "NPC's/Plot Important NPC's/Sadami.md"
+    "NPC's/Plot Important NPC's/Atara.md"
   ]
 }
