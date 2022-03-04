@@ -1,0 +1,1 @@
+Kath was the name of a highly advanced arcane civilization which went extinct around 110,000 BDW; when they opened a gate to the plane of Obliteration, and the

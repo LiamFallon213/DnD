@@ -6,10 +6,11 @@
       {
         "id": "931d796c4ce90eff",
         "type": "leaf",
+        "dimension": 50.16880486158002,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
+            "file": "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "9757d3154c8b42c4",
         "type": "leaf",
+        "dimension": 49.831195138419986,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
+            "file": "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
             "mode": "preview"
           }
         },
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Pan Korr.md",
+                "file": "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +120,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "NPC's/Plot Important NPC's/Pan Korr.md",
+    "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
+    "World Building/Locations/Untitled.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
+    "NPC's/Plot Important NPC's/Pan Korr.md",
+    "NPC's/Plot Important NPC's/Session 5.md",
     "World Building/Timeline/BBEG Home/The Last War.md",
     "Plot/Plot things/The 5 Heros.md",
     "Plot/Plot things/Blackhole bomb.md",
     "Plot/Future Plot/Overarching plot.md",
-    "Plot/Future Plot/Ideas Bin.md",
-    "Sessions/Session 5.md",
-    "NPC's/Plot Important NPC's/Seisui.md",
-    "Sessions/[Julius Higeki.md"
+    "Plot/Future Plot/Ideas Bin.md"
   ]
 }

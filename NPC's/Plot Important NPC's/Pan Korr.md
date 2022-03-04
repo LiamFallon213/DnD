@@ -30,8 +30,7 @@ Person covered in wilted flowers that were once in bloom.
 # Powers
 
 # Backstory
-Driven into wilting by the corruption of the Shadowfell, can use her magic to influence minds just enough to be be a fleeting presence on the prime material plane.
-
+She is placed near the heart of the shadow fell, where the major negative energy is able to slowly bleed her dry of energy. She is kept there, unable to use her magic. Furthermore, she has weakened over the century to the point where if she was exposed to the full force of the heart of the plane, she would die.
 
 
 
