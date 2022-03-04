@@ -1,3 +1,3 @@
 Threads from last session, The Black Hole Terrorist Attack
 
-**Goals:** Introduce [[Sadami]] AKA The Lady of the Mirrors.
+**Goals:** Introduce [[Seisui]] AKA The Lady of the Mirrors.

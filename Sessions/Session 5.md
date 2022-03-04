@@ -1,2 +1,2 @@
 # ideas
-- Imply [[Julius Higeki| Julius]] has an old love interest: [[Sadami Yata]]
+- Imply [[Julius Higeki| Julius]] has an old love interest: [[Seisui]]. 

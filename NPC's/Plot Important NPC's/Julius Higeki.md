@@ -1,5 +1,5 @@
 # General Information
-**Name:** Julius Higeki - （ジュリアス　火激）
+**Name:** Julius Higeki - （ジュリアス　火激）Last name means Fiery
 
 **Job:** Jewels and Wands
 

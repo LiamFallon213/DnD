@@ -1,4 +1,4 @@
-The Legendary Heros is a name given to the party of [[Julius Higeki]], [[Atara]], [[Pan Korr]], [[Sadami]], [[Thran Avaernus]].
+The Legendary Heros is a name given to the party of [[Julius Higeki]], [[Atara]], [[Pan Korr]], [[Seisui]], [[Thran Avaernus]].
 
 This group defeated the Dragon Tyrant [[Xall Bloodfangs]], ending the [[Dragon War]].
 
