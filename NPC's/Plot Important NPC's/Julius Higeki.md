@@ -1,5 +1,5 @@
 # General Information
-**Name:** Theodore Ceaser
+**Name:** Julius Higeki - （ジュリアス　火激）
 
 **Job:** Jewels and Wands
 

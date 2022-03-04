@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 5.md",
+            "file": "NPC's/Plot Important NPC's/Sadami.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Session 5.md",
+            "file": "NPC's/Plot Important NPC's/Sadami.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 5.md",
+                "file": "NPC's/Plot Important NPC's/Sadami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
-    "Sessions/Session 5.md",
-    "NPC's/Plot Important NPC's/Session 5.md",
-    "NPC's/Plot Important NPC's/META NOTES.md",
+    "NPC's/Plot Important NPC's/Sadami.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
+    "Sessions/Session 5.md",
+    "Sessions/[Julius Higeki.md",
+    "Sessions/Session 1 - Every End is a New Beginning.md",
+    "NPC's/Plot Important NPC's/Session 5.md",
+    "META NOTES.md",
     "NPC's/Plot Important NPC's/Atara.md",
     "NPC's/Plot Important NPC's/Pan Korr.md",
-    "Future Plot/The 5 Heros.md",
-    "NPC's/Plot Important NPC's/Thran Avaernus.md",
-    "NPC's/Plot Important NPC's/Sadami.md",
-    "NPC's/NPC Template.md"
+    "Future Plot/The 5 Heros.md"
   ]
 }
