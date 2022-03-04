@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/The Blight.md",
+            "file": "Plot/Plot things/Great Plagues.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/The Blight.md",
-            "mode": "preview"
+            "file": "Plot/Plot things/Great Plagues.md",
+            "mode": "source"
           }
         },
         "group": "76aa50597efcd939"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Plot things/The Blight.md",
+                "file": "Plot/Plot things/Great Plagues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "Plot/Plot things/Great Plagues.md",
     "Plot/Plot things/The Blight.md",
     "Plot/Future Plot/Ideas Bin.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
@@ -125,7 +126,6 @@
     "NPC's/Plot Important NPC's/Julius Franklin.md",
     "NPC's/Plot Important NPC's/Atara.md",
     "Party Info/Party Items.md",
-    "NPC's/Plot Important NPC's/Sadami.md",
-    "NPC's/Past Important NPC/Aquagnae Tailors Guild.md"
+    "NPC's/Plot Important NPC's/Sadami.md"
   ]
 }
