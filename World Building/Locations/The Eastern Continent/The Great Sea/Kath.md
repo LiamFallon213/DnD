@@ -1,1 +1,1 @@
-Kath was the name of a highly advanced arcane civilization which went extinct around 110,000 BDW; when they opened a gate to the plane of Obliteration, and the
+Kath was the name of a highly advanced arcane civilization which went extinct around 110,000 BDW; when they opened a gate to the plane of Obliteration AKA the negative plane, and the Night Shades attacked.
