@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "931d796c4ce90eff",
+        "id": "65a8eca463333225",
         "type": "leaf",
-        "dimension": 50.16880486158002,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
+            "file": "Plot/Future Plot/Ideas Bin.md",
             "mode": "source"
           }
         },
-        "group": "6249b2daa2f11bb6"
+        "group": "76aa50597efcd939"
       },
       {
-        "id": "9757d3154c8b42c4",
+        "id": "88d61535afc7a10d",
         "type": "leaf",
-        "dimension": 49.831195138419986,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
+            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
             "mode": "preview"
           }
         },
-        "group": "6249b2daa2f11bb6"
+        "group": "76aa50597efcd939"
       }
     ],
     "direction": "vertical"
@@ -67,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871
+    "width": 372
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
+                "file": "Plot/Future Plot/Ideas Bin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,32 +101,31 @@
             }
           },
           {
-            "id": "e017d9270b751709",
+            "id": "f2a4ad83a5b9c427",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "931d796c4ce90eff",
+  "active": "65a8eca463333225",
   "lastOpenFiles": [
-    "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
-    "World Building/Locations/Untitled.md",
+    "Plot/Future Plot/Ideas Bin.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
+    "Custom Items/Ruins Wake.md",
     "NPC's/Plot Important NPC's/Pan Korr.md",
-    "NPC's/Plot Important NPC's/Session 5.md",
-    "World Building/Timeline/BBEG Home/The Last War.md",
-    "Plot/Plot things/The 5 Heros.md",
-    "Plot/Plot things/Blackhole bomb.md",
-    "Plot/Future Plot/Overarching plot.md",
-    "Plot/Future Plot/Ideas Bin.md"
+    "NPC's/Plot Important NPC's/Julius Franklin.md",
+    "NPC's/Plot Important NPC's/Atara.md",
+    "Party Info/Party Items.md",
+    "NPC's/Plot Important NPC's/Sadami.md",
+    "NPC's/Past Important NPC/Aquagnae Tailors Guild.md",
+    "NPC's/Past Important NPC/Xall Bloodfangs.md"
   ]
 }
