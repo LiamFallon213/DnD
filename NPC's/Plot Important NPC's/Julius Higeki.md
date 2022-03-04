@@ -59,6 +59,8 @@ He went on to build up his arcane abilities into one of the greatest on the plan
 
 However this wasn't enough for him to stop the war of 1313, so he decided to go further. He stepped into black, old magic. In doing so he found the power he so wanted, he commands the monster armies that siege the kingdoms of man. He then took a new name as his alius, The Black Mage. 
 
+Decades later in 90 ADW, Julius was on a research trip when he first encountered [[The Blight]]. This new infe
+
 ---
 
 Julius does not like killing or violence, it is often his last resort. However, he is willing to do anything he needs to do to accomplish his goal.
