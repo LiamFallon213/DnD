@@ -78,7 +78,7 @@ Julius used a wish to remove all Uranium from the planet.
 
 Julius does not like killing or violence, it is often his last resort. However, he is willing to do anything he needs to do to accomplish his goal.
 
-Julius has tried to figure out why the god failed. However,  the new emergence of [[The Blight]], [[The Sporebloom]], and [[The Bloomplague]] have taken priority. As Julius kno
+Julius has tried to figure out why the god failed. However,  the new emergence of [[The Blight]], [[The Sporebloom]], and [[The Bloomplague]] have taken priority. As Julius knows that these are what destroyed [[Kath]]
 
 
 
