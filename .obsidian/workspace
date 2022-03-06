@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+            "file": "Custom Items/Orrey of the Wanderer.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
-            "mode": "preview"
+            "file": "Custom Items/Orrey of the Wanderer.md",
+            "mode": "source"
           }
         },
         "group": "76aa50597efcd939"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+                "file": "Custom Items/Orrey of the Wanderer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,9 @@
     "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "88d61535afc7a10d",
+  "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "Custom Items/Orrey of the Wanderer.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
     "Plot/Plot things/The Great Plagues/The Blight.md",
     "Plot/Plot things/The Great Plagues/The Bloomplague.md",
@@ -125,7 +126,6 @@
     "Plot/Future Plot/Ideas Bin.md",
     "Custom Items/Ruins Wake.md",
     "NPC's/Plot Important NPC's/Pan Korr.md",
-    "NPC's/Plot Important NPC's/Julius Franklin.md",
-    "NPC's/Plot Important NPC's/Atara.md"
+    "NPC's/Plot Important NPC's/Julius Franklin.md"
   ]
 }
