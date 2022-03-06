@@ -1,0 +1,1 @@
+The Blighted ones (illegable) the city has fallen (Illegible) the end times are here.
