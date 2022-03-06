@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/The 5 Heros.md",
+            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Plot things/The 5 Heros.md",
+            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Plot things/The 5 Heros.md",
+                "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,8 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
-    "Plot/Plot things/The 5 Heros.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
+    "Plot/Plot things/The 5 Heros.md",
     "NPC's/Plot Important NPC's/Nightshades.md",
     "Custom Items/Orrey of the Wanderer.md",
     "Plot/Plot things/The Great Plagues/The Blight.md",

@@ -2,7 +2,9 @@
 
 They were successful, but [[Julius Higeki]] then turned on his allies. Having seen the devastation of war twice now, he couldn't let this world die too.
 
-[[Julius Higeki|Julius]] decided that if the godsweren'tt going to protect this world, he'd make his own. He did this secretly. However when the others found out, it caused the party to split.
+[[Julius Higeki|Julius]] decided that if the gods weren't going to protect this world, he'd make his own. He did this secretly, when it failed the party learned about it. This caused a split.
+
+[[Julius Higeki|Julius]] has spent decades trying to figure out what went wrong. 
 
 [[Julius Higeki|Julius]] dealt with each of them seperetly.
 
