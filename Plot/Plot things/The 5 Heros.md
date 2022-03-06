@@ -1,6 +1,8 @@
 100 years ago there were 5 great heros brought by the goeds, [[Julius Higeki]], [[Atara]], [[Thran Avaernus]], [[Pan Korr]], and [[Seisui]]. They were tasked with defeating the [[Dragon Army]], which had been causing problems.
 
-They were sucessful, but [[Julius Higeki]] then turned on his allies. Having seen the devistation of war twice now, he couldn't let this world die too.
+They were successful, but [[Julius Higeki]] then turned on his allies. Having seen the devastation of war twice now, he couldn't let this world die too.
+
+[[Julius Higeki|Julius]] decided that if the godsweren'tt going to protect this world, he'd make his own. He did this secretly. However when the others found out, it caused the party to split.
 
 [[Julius Higeki|Julius]] dealt with each of them seperetly.
 

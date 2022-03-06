@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Nightshades.md",
+            "file": "Plot/Plot things/The 5 Heros.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Nightshades.md",
+            "file": "Plot/Plot things/The 5 Heros.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Nightshades.md",
+                "file": "Plot/Plot things/The 5 Heros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
-    "NPC's/Plot Important NPC's/Nightshades.md",
+    "Plot/Plot things/The 5 Heros.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
+    "NPC's/Plot Important NPC's/Nightshades.md",
     "Custom Items/Orrey of the Wanderer.md",
     "Plot/Plot things/The Great Plagues/The Blight.md",
     "Plot/Plot things/The Great Plagues/The Bloomplague.md",
     "Plot/Plot things/The Great Plagues/The Sporebloom.md",
     "Plot/Plot things/The Great Plagues/Great Plagues.md",
     "Plot/Future Plot/Ideas Bin.md",
-    "Custom Items/Ruins Wake.md",
-    "NPC's/Plot Important NPC's/Pan Korr.md"
+    "Custom Items/Ruins Wake.md"
   ]
 }

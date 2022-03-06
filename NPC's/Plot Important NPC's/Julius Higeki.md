@@ -72,6 +72,8 @@ However, the resurrected entities that have fully transformed are uncurable, as 
 
 As powerful as Julius is, he can't fight a threat like this, there is no single source, it is a global issue. The entire world must fight to eliminate this threat for good.
 
+Julius used a wish to remove all Uranium from the planet.
+
 ---
 
 Julius does not like killing or violence, it is often his last resort. However, he is willing to do anything he needs to do to accomplish his goal.
