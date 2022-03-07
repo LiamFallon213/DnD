@@ -1,6 +1,8 @@
 # General Information
 **Name:** Julius Higeki - （ジュリアス　火激）Last name means Fiery
 
+**Born:** 1983 Tokyo
+
 **Job:** Jewels and Wands
 
 **Class:** Level 20 Wizard Legendary wizard.
