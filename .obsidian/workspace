@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+            "file": "NPC's/Unimportant NPC's/Hylzora.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+            "file": "NPC's/Unimportant NPC's/Hylzora.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+                "file": "NPC's/Unimportant NPC's/Hylzora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "NPC's/Unimportant NPC's/Hylzora.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
     "Plot Items/Ancient Stone Tablet 1.md",
     "Plot Items/Original Mask (Black mage).md",
@@ -125,7 +126,6 @@
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Laws.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md"
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md"
   ]
 }
