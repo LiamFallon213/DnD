@@ -1,1 +1,0 @@
-Black and Red oni mask, large crack throgh the center

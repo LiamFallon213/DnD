@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Custom Items/Untitled.md",
+            "file": "Plot Items/Ancient Stone Tablet 1.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Custom Items/Untitled.md",
+            "file": "Plot Items/Ancient Stone Tablet 1.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Items/Untitled.md",
+                "file": "Plot Items/Ancient Stone Tablet 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
-    "Custom Items/Untitled.md",
-    "Custom Items/Original Mask (Black mage).md",
+    "Plot Items/Ancient Stone Tablet 1.md",
+    "Plot Items/Original Mask (Black mage).md",
+    "Custom Items/Cursed AF ring.md",
+    "Plot/Bloodfangs Tooth.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Laws.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds/Aquagnae Arcanists Guild.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquarius.md",
-    "NPC's/Guild Leaders/Gandalf.md",
-    "NPC's/Guild Leaders/Vlaran.md",
-    "NPC's/Guild Leaders/Thran.md"
+    "NPC's/Guild Leaders/Gandalf.md"
   ]
 }
