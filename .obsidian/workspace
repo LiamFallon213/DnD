@@ -7,11 +7,8 @@
         "id": "65a8eca463333225",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NPC's/Plot Important NPC's/Thran Avaernus.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "76aa50597efcd939"
       },
@@ -19,11 +16,8 @@
         "id": "88d61535afc7a10d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NPC's/Plot Important NPC's/Thran Avaernus.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "76aa50597efcd939"
       }
@@ -81,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Thran Avaernus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +110,7 @@
   },
   "active": "65a8eca463333225",
   "lastOpenFiles": [
+    "Untitled/Untitled.md",
     "NPC's/Plot Important NPC's/Thran Avaernus.md",
     "NPC's/Unimportant NPC's/Hylzora.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
@@ -125,7 +119,6 @@
     "Custom Items/Cursed AF ring.md",
     "Plot/Bloodfangs Tooth.md",
     "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Laws.md",
-    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae.md"
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Laws.md"
   ]
 }
