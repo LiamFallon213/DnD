@@ -1,4 +1,6 @@
-After the [[Revolution of 1819]], and the resulting creation of the [[Council of Aquagnae]]. A number of guilds and unions became prominent factions within the city
+After the [[Revolution of 1819]], and the resulting creation of the [[Council of Aquagnae]]. A number of guilds and unions became prominent factions within the city.
+
+The leader of the city is called the Guild Master
 
 | Guild Name                     | Seats | Current Gov Members | Color  |
 | ------------------------------ | ----- | ------------------- | ------ |

@@ -4,30 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "931d796c4ce90eff",
+        "id": "65a8eca463333225",
         "type": "leaf",
-        "dimension": 50.16880486158002,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
-        "group": "6249b2daa2f11bb6"
+        "group": "76aa50597efcd939"
       },
       {
-        "id": "9757d3154c8b42c4",
+        "id": "88d61535afc7a10d",
         "type": "leaf",
-        "dimension": 49.831195138419986,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
-        "group": "6249b2daa2f11bb6"
+        "group": "76aa50597efcd939"
       }
     ],
     "direction": "vertical"
@@ -67,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871
+    "width": 372
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -83,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,32 +94,31 @@
             }
           },
           {
-            "id": "e017d9270b751709",
+            "id": "f2a4ad83a5b9c427",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 242.48309326171875,
     "collapsed": true
   },
-  "active": "931d796c4ce90eff",
+  "active": "65a8eca463333225",
   "lastOpenFiles": [
-    "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
-    "World Building/Locations/Untitled.md",
+    "Untitled/Untitled.md",
+    "NPC's/Plot Important NPC's/Thran Avaernus.md",
+    "NPC's/Unimportant NPC's/Hylzora.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
-    "NPC's/Plot Important NPC's/Pan Korr.md",
-    "NPC's/Plot Important NPC's/Session 5.md",
-    "World Building/Timeline/BBEG Home/The Last War.md",
-    "Plot/Plot things/The 5 Heros.md",
-    "Plot/Plot things/Blackhole bomb.md",
-    "Plot/Future Plot/Overarching plot.md",
-    "Plot/Future Plot/Ideas Bin.md"
+    "Plot Items/Ancient Stone Tablet 1.md",
+    "Plot Items/Original Mask (Black mage).md",
+    "Custom Items/Cursed AF ring.md",
+    "Plot/Bloodfangs Tooth.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Guilds of Aquagnae.md",
+    "World Building/Locations/The Eastern Continent/Dorn/Aquagnae/Aquagnae Laws.md"
   ]
 }
