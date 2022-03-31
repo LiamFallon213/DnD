@@ -1,1 +1,1 @@
-Area where the Levithan, and Kraken live. It's a breeding grounf for many of the more powerful beings of the ocean, Krakens, Hydra, and Dragon Turtles.
+Area where the Levithan, and Kraken live. It's a breeding ground for many of the more powerful beings of the ocean, Krakens, Hydra, and Dragon Turtles.
