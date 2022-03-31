@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/The Great Sea/Heart of the Sea.md",
+            "file": "World Building/Horiculture.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Locations/The Eastern Continent/The Great Sea/Heart of the Sea.md",
+            "file": "World Building/Horiculture.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Locations/The Eastern Continent/The Great Sea/Heart of the Sea.md",
+                "file": "World Building/Horiculture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "World Building/Horiculture.md",
     "World Building/Locations/The Eastern Continent/The Great Sea/Heart of the Sea.md",
     "Plot Items/WAVE.md",
     "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
@@ -128,7 +129,6 @@
     "NPC's/Plot Important NPC's/Pan Korr.md",
     "NPC's/Plot Important NPC's/Session 5.md",
     "World Building/Timeline/BBEG Home/The Last War.md",
-    "Plot/Plot things/The 5 Heros.md",
-    "Plot/Plot things/Blackhole bomb.md"
+    "Plot/Plot things/The 5 Heros.md"
   ]
 }

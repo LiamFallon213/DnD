@@ -1,0 +1,1 @@
+Bloodgrass is used as a industrial scale food resource.
