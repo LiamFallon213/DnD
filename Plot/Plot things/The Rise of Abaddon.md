@@ -1,0 +1,6 @@
+
+Abaddon was never fully divine. However, he is incredibly powerful, after having his soul separated from his body by [[Atara]] and [[Soul Slicer]] his body became [[The Atropal]]. However, his soul possessed [[Julius Higeki]] for a time.
+
+During this time, [[Julius Higeki]] sealed his allies in various prisons. However, none of the prisons were perfect, due to the real Julius still existing. After sealing [[Pan Korr]], and [[Thran Avaernus]]. [[Abaddon]] sought to seal [[Seisui]], this lead to a protracted battle above [[The Pyramid]]. [[Abaddon]] won and trapped [[Seisui]] in the mirror world. At this moment of weakened [[Atara]] struck a nearly fatal blow with [[Soul Slicer]],  [[Abaddon]] attacked with a massive amount of energy, shattering [[Atara]] across time.
+
+[[Julius Higeki]] was then able to take control of his body back, and now free for a time, preformed a sealing ritual on [[Abaddon]]. Sealing him away inside his own body. While the seal prevents permanent possession again, it can fail for a time and let [[Abaddon]] back out. This is most likely to happen when [[Julius Higeki|Julius]] uses magic, as he is now pulling his near infinite magical power directly from [[Abaddon]].

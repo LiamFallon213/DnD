@@ -3,7 +3,7 @@
 
 **Current Location:**
 
-**Class:** LVL 20 legendary Druid
+**Class:** LVL 20 legendary Druid (also dragon  Witherbloom statblock)
 
 **Alignment:** True Neutral
 
@@ -25,7 +25,9 @@ Person covered in wilted flowers that were once in bloom.
 **Hair:** 
 **Skin Color:** 
 **Eyes:**
-**Facial Hair:** 
+**Facial Hair:** !![[Pasted image 20220411154023.png]]
+
+![[5eb9462226d2f039c3827a58e0fd46dd.jpg]]
 
 # Powers
 
