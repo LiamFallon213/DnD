@@ -45,6 +45,8 @@ Trolled a duke by taking a hit contract on a mistress then introduced the mistri
 
 
 
+![[Pasted image 20220411153928.png]]
+
 
 
 

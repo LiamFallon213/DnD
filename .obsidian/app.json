@@ -14,12 +14,15 @@
     "Bloodfangs",
     "Xall",
     "Heros",
-    "Sporebloom"
+    "Sporebloom",
+    "Abaddon",
+    "Gylvir"
   ],
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
   "legacyEditor": true,
   "defaultViewMode": "preview",
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "promptDelete": false
 }

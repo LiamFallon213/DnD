@@ -53,12 +53,9 @@ This started a nuclear war between the Soviets and the West. Julius watched the 
 
 [[The Last War]]
 
-He was pulled into the new world, and decided to make it so that couldn't happen. Humanity needed a strong leader to prevent war from happening again. He would have peace, at any price.
 
 ## Post Shift
-He went on to build up his arcane abilities into one of the greatest on the planet. He build a magic shop, and became high council to the Arcanists guild.
-
-However this wasn't enough for him to stop the war of 1313, so he decided to go further. He stepped into black, old magic. In doing so he found the power he so wanted, he commands the monster armies that siege the kingdoms of man. He then took a new name as his alius, The Black Mage. 
+Events described in [[Dragon War]], then [[The 5 Heros]], and finally [[The Rise of Abaddon]].
 
 Decades later in 90 ADW, Julius was on a research trip when he first encountered [[The Blight]]. This new infection shocked him.
 
@@ -81,6 +78,13 @@ Julius used a wish to remove all Uranium from the planet.
 Julius does not like killing or violence, it is often his last resort. However, he is willing to do anything he needs to do to accomplish his goal.
 
 Julius has tried to figure out why the god failed. However,  the new emergence of [[The Blight]], [[The Sporebloom]], and [[The Bloomplague]] have taken priority. As Julius knows that these are what destroyed [[Kath]]
+
+![[Pasted image 20220411154533.png]]
+
+
+![[Pasted image 20220411155127.png]]
+
+![[Pasted image 20220411155257.png]]
 
 
 

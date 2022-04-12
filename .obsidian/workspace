@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "931d796c4ce90eff",
+        "id": "0345aee2ed98f7ea",
         "type": "leaf",
-        "dimension": 50.16880486158002,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
+            "file": "World Building/Faewild/Garden Of Titania.md",
             "mode": "source"
           }
         },
-        "group": "6249b2daa2f11bb6"
+        "group": "ff2fed7d68d97dec"
       },
       {
-        "id": "9757d3154c8b42c4",
+        "id": "67568c9f63ba8799",
         "type": "leaf",
-        "dimension": 49.831195138419986,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
+            "file": "World Building/Faewild/Garden Of Titania.md",
             "mode": "preview"
           }
         },
-        "group": "6249b2daa2f11bb6"
+        "group": "ff2fed7d68d97dec"
       }
     ],
     "direction": "vertical"
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Pan Korr.md",
+                "file": "World Building/Faewild/Garden Of Titania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +116,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "931d796c4ce90eff",
+  "active": "0345aee2ed98f7ea",
   "lastOpenFiles": [
-    "NPC's/Plot Important NPC's/Pan Korr.md",
+    "World Building/Faewild/Garden Of Titania.md",
+    "conflict-files-obsidian-git.md",
+    "NPC's/Unimportant NPC's/Hylzora.md",
+    "NPC's/Plot Important NPC's/Atara.md",
+    "NPC's/Unimportant NPC's/Johnathan Fisch (Captin Johnathan).md",
+    "NPC's/Plot Important NPC's/Nightshades.md",
     "NPC's/Plot Important NPC's/Julius Higeki.md",
+    "NPC's/Plot Important NPC's/Pan Korr.md",
     "Meta Rules/Cameron's Char.md",
-    "World Building/Horiculture.md",
-    "World Building/Locations/The Eastern Continent/The Great Sea/Heart of the Sea.md",
-    "Plot Items/WAVE.md",
-    "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
-    "World Building/Locations/Untitled.md",
-    "NPC's/Plot Important NPC's/Session 5.md",
-    "World Building/Timeline/BBEG Home/The Last War.md"
+    "World Building/Horiculture.md"
   ]
 }

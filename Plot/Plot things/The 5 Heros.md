@@ -2,13 +2,11 @@
 
 They were successful, but [[Julius Higeki]] then turned on his allies. Having seen the devastation of war twice now, he couldn't let this world die too.
 
-[[Julius Higeki|Julius]] decided that if the gods weren't going to protect this world, he'd make his own. He did this secretly, when it failed the party learned about it. This caused a split.
+[[Julius Higeki|Julius]] decided that if the gods weren't going to protect this world, his experiments resulted in two entities, [[The Atropal]], and [[Abaddon]]
 
-[[Julius Higeki|Julius]] has spent decades trying to figure out what went wrong. 
+[[Julius Higeki|Julius]] was possessed  by [[Abaddon]]  who imprisoned the other 5 heroes.
 
-[[Julius Higeki|Julius]] dealt with each of them seperetly.
-
-[[Thran Avaernus]] is trapped deep in the underdark, in an arcane prison able to hold gods. Kept there for eternity.
+[[Thran Avaernus]] is trapped deep in the underdark, in an arcane prison which uses illusion magic to keep him in a state of permanent mindless rage.
 
 [[Pan Korr]] was imprisoned on the Shadowfell, she lies at the heart of darkness, where no light can exist. No plants can survive.  A dome of powerful arcane darkness a hundred miles across. Created by Wish, a side effect of this is the prolonged exposure to the dark energies of the shadowfell blinded her, so even if she escaped she could never see again.
 
@@ -16,7 +14,7 @@ They were successful, but [[Julius Higeki]] then turned on his allies. Having se
 
 She has a small religious following, worshiping her as The Lady of the Mirrors.
 
-[[Atara]] knew to be ready, so she attacked [[Julius Higeki]] before he was ready. She nearly slayed him, but as she prepared the final blow, Julius used Wish to attempt to freeze her in time. However the Wish went wrong, and shattered her across time instead. This also resulted in Julius's inability to use Wish.
+[[Atara]] knew to be ready, so she attacked [[Julius Higeki]], who was being possessed by [[Abaddon]], before he was ready. She nearly slayed him, but as she prepared the final blow, Julius used Wish to attempt to freeze her in time. However, the Wish went wrong, and shattered her across time instead. This also resulted in Julius's inability to use Wish.
 
 They all had a symbol, 
 
