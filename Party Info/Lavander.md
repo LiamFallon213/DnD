@@ -7,4 +7,5 @@ Appearence:
 - Dark pink hair cottoncandy
 - Pointed ears
 - Pink eyes
-- 
+
+![[Pasted image 20220412153043.png]]
