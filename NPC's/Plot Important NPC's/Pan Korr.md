@@ -12,7 +12,7 @@
 
 **Goals:** Lorem Ipsum.
 
-Likes Lavender.
+Likes Lavender for saving her.
 
 # Biological Information
 **Age:** XX
