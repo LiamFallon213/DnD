@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta Rules/Cameron's Char.md",
+            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta Rules/Cameron's Char.md",
+            "file": "NPC's/Plot Important NPC's/Pan Korr.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta Rules/Cameron's Char.md",
+                "file": "NPC's/Plot Important NPC's/Pan Korr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,14 +120,14 @@
   },
   "active": "931d796c4ce90eff",
   "lastOpenFiles": [
+    "NPC's/Plot Important NPC's/Pan Korr.md",
+    "NPC's/Plot Important NPC's/Julius Higeki.md",
     "Meta Rules/Cameron's Char.md",
     "World Building/Horiculture.md",
     "World Building/Locations/The Eastern Continent/The Great Sea/Heart of the Sea.md",
     "Plot Items/WAVE.md",
     "World Building/Locations/The Eastern Continent/The Great Sea/Kath.md",
     "World Building/Locations/Untitled.md",
-    "NPC's/Plot Important NPC's/Julius Higeki.md",
-    "NPC's/Plot Important NPC's/Pan Korr.md",
     "NPC's/Plot Important NPC's/Session 5.md",
     "World Building/Timeline/BBEG Home/The Last War.md"
   ]
