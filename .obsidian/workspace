@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Ideas.md",
+            "file": "Party Info/Lavander.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Info/Ideas.md",
+            "file": "Party Info/Lavander.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party Info/Ideas.md",
+                "file": "Party Info/Lavander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,8 @@
   },
   "active": "0345aee2ed98f7ea",
   "lastOpenFiles": [
-    "Party Info/Ideas.md",
     "Party Info/Lavander.md",
+    "Party Info/Ideas.md",
     "NPC's/Plot Important NPC's/Pan Korr.md",
     "Party Info/Olivar.md",
     "World Building/Faewild/Garden Of Titania.md",
