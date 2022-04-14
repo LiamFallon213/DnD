@@ -1,6 +1,8 @@
 # General Information
 **Name:** Atara Malthus
 
+**Code Name:** Canary
+
 **Class**: Lvl 20 legendary fighter
 
 **Current Location:** [[Aquagnae]]
