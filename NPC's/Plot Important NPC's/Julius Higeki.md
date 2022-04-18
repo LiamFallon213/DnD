@@ -87,6 +87,8 @@ Julius has tried to figure out why the god failed. However,  the new emergence o
 ![[Pasted image 20220411155257.png]]
 
 
+![[Pasted image 20220418141338.png]]
+
 
 
  

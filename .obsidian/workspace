@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Atara.md",
+            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Atara.md",
+            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Atara.md",
+                "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "0345aee2ed98f7ea",
   "lastOpenFiles": [
+    "NPC's/Plot Important NPC's/Julius Higeki.md",
     "NPC's/Plot Important NPC's/Atara.md",
     "Party Info/Lavander.md",
     "Party Info/ce2958916d39abacd17b90f3014c6338.jpg",
@@ -126,7 +127,6 @@
     "NPC's/Plot Important NPC's/Pan Korr.md",
     "Party Info/Olivar.md",
     "World Building/Faewild/Garden Of Titania.md",
-    "conflict-files-obsidian-git.md",
-    "NPC's/Unimportant NPC's/Hylzora.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
