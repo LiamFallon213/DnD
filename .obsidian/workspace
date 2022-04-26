@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/Jerry the drunk.md",
+            "file": "Camerons Campaign/NPC's/Jerry the drunk.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/Jerry the drunk.md",
+            "file": "Camerons Campaign/NPC's/Jerry the drunk.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camerons Campaign/Jerry the drunk.md",
+                "file": "Camerons Campaign/NPC's/Jerry the drunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,8 @@
   },
   "active": "0345aee2ed98f7ea",
   "lastOpenFiles": [
-    "Camerons Campaign/Jerry the drunk.md",
-    "Camerons Campaign/Seaside.md",
+    "Camerons Campaign/NPC's/Jerry the drunk.md",
+    "Camerons Campaign/Locations/Seaside.md",
     "DM-Campaign/NPC's/Plot Important NPC's/Julius Higeki.md",
     "DM-Campaign/NPC's/Plot Important NPC's/Atara.md",
     "DM-Campaign/Party Info/Lavander.md",
