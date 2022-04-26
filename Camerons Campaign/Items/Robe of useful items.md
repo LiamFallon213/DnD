@@ -4,8 +4,8 @@ Numbers
 | ------------------------- |
 | Wooden Ladder             |
 | Riding horse              |
-| 10 gems worth 100 gp each |
-| 10 gems worth 100 gp      |
+| X |
+| X      |
 | pit 10' cube              |
 | window                    |
 | window                    |
