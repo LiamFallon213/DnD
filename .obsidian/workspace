@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/NPC's/Jerry the drunk.md",
+            "file": "Camerons Campaign/NPC's/Mealynn Dawnguard.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/NPC's/Jerry the drunk.md",
-            "mode": "source"
+            "file": "Camerons Campaign/NPC's/Mealynn Dawnguard.md",
+            "mode": "preview"
           }
         },
         "group": "ff2fed7d68d97dec"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camerons Campaign/NPC's/Jerry the drunk.md",
+                "file": "Camerons Campaign/NPC's/Mealynn Dawnguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "0345aee2ed98f7ea",
   "lastOpenFiles": [
+    "Camerons Campaign/NPC's/Mealynn Dawnguard.md",
     "Camerons Campaign/NPC's/Jerry the drunk.md",
     "Camerons Campaign/Locations/Seaside.md",
     "DM-Campaign/NPC's/Plot Important NPC's/Julius Higeki.md",
@@ -126,7 +127,6 @@
     "Party Info/ce2958916d39abacd17b90f3014c6338.jpg",
     "Party Info/eeca0e2529de38f3c2be06592720ffc5.jpg",
     "DM-Campaign/Party Info/Ideas.md",
-    "DM-Campaign/NPC's/Plot Important NPC's/Pan Korr.md",
-    "DM-Campaign/Party Info/Olivar.md"
+    "DM-Campaign/NPC's/Plot Important NPC's/Pan Korr.md"
   ]
 }
