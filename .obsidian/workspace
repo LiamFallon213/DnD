@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+            "file": "Camerons Campaign/Jerry the drunk.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
-            "mode": "preview"
+            "file": "Camerons Campaign/Jerry the drunk.md",
+            "mode": "source"
           }
         },
         "group": "ff2fed7d68d97dec"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC's/Plot Important NPC's/Julius Higeki.md",
+                "file": "Camerons Campaign/Jerry the drunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "0345aee2ed98f7ea",
   "lastOpenFiles": [
-    "NPC's/Plot Important NPC's/Julius Higeki.md",
-    "NPC's/Plot Important NPC's/Atara.md",
-    "Party Info/Lavander.md",
+    "Camerons Campaign/Jerry the drunk.md",
+    "Camerons Campaign/Seaside.md",
+    "DM-Campaign/NPC's/Plot Important NPC's/Julius Higeki.md",
+    "DM-Campaign/NPC's/Plot Important NPC's/Atara.md",
+    "DM-Campaign/Party Info/Lavander.md",
     "Party Info/ce2958916d39abacd17b90f3014c6338.jpg",
     "Party Info/eeca0e2529de38f3c2be06592720ffc5.jpg",
-    "Party Info/Ideas.md",
-    "NPC's/Plot Important NPC's/Pan Korr.md",
-    "Party Info/Olivar.md",
-    "World Building/Faewild/Garden Of Titania.md",
-    "conflict-files-obsidian-git.md"
+    "DM-Campaign/Party Info/Ideas.md",
+    "DM-Campaign/NPC's/Plot Important NPC's/Pan Korr.md",
+    "DM-Campaign/Party Info/Olivar.md"
   ]
 }
