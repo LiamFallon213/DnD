@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/Items/Robe of useful items.md",
+            "file": "Camerons Campaign/NPC's/Jaylynn.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/Items/Robe of useful items.md",
+            "file": "Camerons Campaign/NPC's/Jaylynn.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camerons Campaign/Items/Robe of useful items.md",
+                "file": "Camerons Campaign/NPC's/Jaylynn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +117,9 @@
   },
   "active": "67568c9f63ba8799",
   "lastOpenFiles": [
-    "Camerons Campaign/Items/Robe of useful items.md",
     "Camerons Campaign/NPC's/Jaylynn.md",
     "Camerons Campaign/NPC's/Jayla.md",
+    "Camerons Campaign/Items/Robe of useful items.md",
     "Camerons Campaign/NPC's/unknown.png",
     "Camerons Campaign/NPC's/Jerry the drunk.md",
     "Camerons Campaign/NPC's/Mealynn Dawnguard.md",
