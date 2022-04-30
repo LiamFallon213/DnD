@@ -2,16 +2,16 @@
 | --------------------- | ---------------- | ------------ | -------------------------- |
 | [[Alexander]]         | [[Seaside]]      | N/A          |                            |
 | [[Bunny Girl]]        | [[Castle Cliff]] |              |                            |
+| [[Edith Williams]]    | [[Castle Cliff]] |              |                            |
 | [[God of Dreams]]     | God              | Neutral      |                            |
+| [[Guild deskclerk]]   | [[Castle Cliff]] | Bribed       |                            |
 | [[Jayla]]             | In party         | Party Member |                            |
 | [[Jaylynn]]           | In party         | Party Member |                            |
 | [[Jerry the drunk]]   | [[Seaside]]      | Met          |                            |
+| [[Matilda]]           | [[Castle Cliff]] | Friendly     |                            |
 | [[Mealynn Dawnguard]] | In party         | Party Member |                            |
-| [[Oni Girl]]          | [[Castle Cliff]] | Not met      |                            |
 | [[Mr. Plague]]        | [[Glocester]]    | Enemy        | Teleported to random place |
+| [[Oni Girl]]          | [[Castle Cliff]] | Not met      |                            |
 | [[Seaside Barkeep]]   | [[Seaside]]      | N/A          |                            |
 | [[Sierra]]            | With Kids        | Friendly     | Not surprised by anything  |
 | [[Vlad]]              | [[Glocester]]    | Enemy        | Teleported to random place |
-| [[Guild deskclerk]]   | [[Castle Cliff]] | Bribed       |                            |
-| [[Edith Williams]]    | [[Castle Cliff]] |              |                            |
-| [[Matilda]]           | [[Castle Cliff]] | Friendly     |                            |
