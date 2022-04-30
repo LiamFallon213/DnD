@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/Items/Robe of useful items.md",
+            "file": "Camerons Campaign/NPC's/NPG Registery.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/Items/Robe of useful items.md",
+            "file": "Camerons Campaign/NPC's/NPG Registery.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camerons Campaign/Items/Robe of useful items.md",
+                "file": "Camerons Campaign/NPC's/NPG Registery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,11 +117,11 @@
   },
   "active": "67568c9f63ba8799",
   "lastOpenFiles": [
-    "Camerons Campaign/Items/Robe of useful items.md",
     "Camerons Campaign/NPC's/NPG Registery.md",
-    "Camerons Campaign/NPC's/Guild deskclerk.md",
-    "Camerons Campaign/NPC's/Edith Williams.md",
-    "Camerons Campaign/NPC's/Matilda.md",
+    "Camerons Campaign/Items/Robe of useful items.md",
+    "Camerons Campaign/NPC's/Castlecliff/Guild deskclerk.md",
+    "Camerons Campaign/NPC's/Castlecliff/Edith Williams.md",
+    "Camerons Campaign/NPC's/Castlecliff/Matilda.md",
     "Camerons Campaign/NPC's/Castlecliff/Bunny Girl.md",
     "Camerons Campaign/Items/Pasted image 20220429191909.png",
     "Camerons Campaign/Misc.md",
