@@ -15,4 +15,5 @@
 | [[Seaside Barkeep]]   | [[Seaside]]                    | N/A          |                            |
 | [[Sierra]]            | With Kids                      | Friendly     | Not surprised by anything  |
 | [[Vlad]]              | [[Glocester]]                  | Enemy        | Teleported to random place |
-| Slave Seller          | [[Castle Cliff]]  black market | Bribed       | Sells slaves                           |
+| Slave Seller          | [[Castle Cliff]]  black market | Bribed       | Sells slaves               |
+| [[Zesku]]             | [[Mansion]]                    | Slave        |                            |
