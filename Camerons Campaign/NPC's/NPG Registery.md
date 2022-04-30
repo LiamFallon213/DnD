@@ -1,7 +1,7 @@
 | Name                  | Last seen        | Relationship | Misc                       |
 | --------------------- | ---------------- | ------------ | -------------------------- |
 | [[Alexander]]         | [[Seaside]]      | N/A          |                            |
-| [[Bunny Girl]]        | [[Castle Cliff]] |              |                            |
+| [[Alice]]             | [[Castle Cliff]] |              |                            | 
 | [[Edith Williams]]    | [[Castle Cliff]] |              |                            |
 | [[God of Dreams]]     | God              | Neutral      |                            |
 | [[Guild deskclerk]]   | [[Castle Cliff]] | Bribed       |                            |
