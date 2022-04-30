@@ -24,5 +24,6 @@
   "legacyEditor": true,
   "defaultViewMode": "preview",
   "communityPluginSortOrder": "download",
-  "promptDelete": false
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical"
 }

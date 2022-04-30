@@ -8,7 +8,7 @@
 | [[Jerry the drunk]]   | [[Seaside]]      | Met          |                            |
 | [[Mealynn Dawnguard]] | In party         | Party Member |                            |
 | [[Oni Girl]]          | [[Castle Cliff]] | Not met      |                            |
-| [[Mr. Plague]]       | [[Glocester]]    | Enemy        | Teleported to random place |
+| [[Mr. Plague]]        | [[Glocester]]    | Enemy        | Teleported to random place |
 | [[Seaside Barkeep]]   | [[Seaside]]      | N/A          |                            |
 | [[Sierra]]            | With Kids        | Friendly     | Not surprised by anything  |
 | [[Vlad]]              | [[Glocester]]    | Enemy        | Teleported to random place |
