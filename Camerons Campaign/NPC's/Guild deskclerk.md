@@ -1,0 +1,1 @@
+Gave her a plat piece as a quasi bribe

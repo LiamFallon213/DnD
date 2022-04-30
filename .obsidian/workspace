@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/Locations/Castle Cliff.md",
+            "file": "Camerons Campaign/NPC's/Guild deskclerk.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/Locations/Castle Cliff.md",
-            "mode": "preview"
+            "file": "Camerons Campaign/NPC's/Guild deskclerk.md",
+            "mode": "source"
           }
         },
         "group": "204821e5dba23d22"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camerons Campaign/Locations/Castle Cliff.md",
+                "file": "Camerons Campaign/NPC's/Guild deskclerk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "67568c9f63ba8799",
   "lastOpenFiles": [
-    "Camerons Campaign/Locations/Castle Cliff.md",
+    "Camerons Campaign/NPC's/Guild deskclerk.md",
     "Camerons Campaign/NPC's/NPG Registery.md",
+    "Camerons Campaign/Locations/Castle Cliff.md",
     "Camerons Campaign/Locations/Farhaven.md",
     "Camerons Campaign/NPC's/Misc/Mr. Plague.md",
     "Camerons Campaign/NPC's/Misc/Sierra.md",
     "Camerons Campaign/NPC's/Misc/Vlad.md",
     "Camerons Campaign/Locations/Glocester.md",
     "Camerons Campaign/NPC's/Seaside/Seaside Barkeep.md",
-    "Camerons Campaign/NPC's/Seaside/Alexander.md",
-    "Camerons Campaign/NPC's/Misc/Jerry the drunk.md"
+    "Camerons Campaign/NPC's/Seaside/Alexander.md"
   ]
 }
