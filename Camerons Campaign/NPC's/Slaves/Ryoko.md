@@ -1,3 +1,3 @@
 Name: Ryoko
-Race: mix of human, Dragonborn or Tiefling
+Race: Young white dragon
 ![[Pasted image 20220429212337.png]]
