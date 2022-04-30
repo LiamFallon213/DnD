@@ -5,7 +5,8 @@ Town near the sea
 Church burnt down by Illithids.
 
 NPC list 
-
+ 
+ [[Jerry the drunk]]
 
 ![[Pasted image 20220426030343.png]]
 
