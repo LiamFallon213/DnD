@@ -13,3 +13,4 @@
 | [[Sierra]]            | With Kids        | Friendly     | Not surprised by anything  |
 | [[Vlad]]              | [[Glocester]]    | Enemy        | Teleported to random place |
 | [[Guild deskclerk]]   | [[Castle Cliff]] | Bribed       |                            |
+| [[Edith Williams]]    | [[Castle Cliff]] |              |                            |
