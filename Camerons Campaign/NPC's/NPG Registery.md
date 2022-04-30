@@ -14,3 +14,4 @@
 | [[Vlad]]              | [[Glocester]]    | Enemy        | Teleported to random place |
 | [[Guild deskclerk]]   | [[Castle Cliff]] | Bribed       |                            |
 | [[Edith Williams]]    | [[Castle Cliff]] |              |                            |
+| [[Matilda]]           | [[Castle Cliff]] | Friendly     |                            |
