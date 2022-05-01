@@ -1,5 +1,6 @@
 Paladin with pink hair
 - Has celestial energy
+- Enslaved
 
 
 
