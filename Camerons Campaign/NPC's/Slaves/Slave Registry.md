@@ -1,19 +1,19 @@
 SLAVES
 
-| Name                  | Location    | Relationship | Cup Size | Misc |     |
-| --------------------- | ----------- | ------------ | -------- | ---- | --- |
-| [[Irinoria]]          | [[Mansion]] | Slave        | Varible  |      |     |
-| [[Nola]]              | [[Mansion]] | Slave        | B        |      |     |
-| [[Ryoko]]             | [[Mansion]] | Slave        | D        |      |     |
-| [[Zesku]]             | [[Mansion]] | Slave        | DD       |      |     |
-| [[Elora Rose]]        | [[Mansion]] | Slave        | C        |      |     |
-| [[Jester]]            | [[Mansion]] | Slave        | D        |      |     |
-| [[Lavender-2]]        | [[Mansion]] | Slave        | C        |      |     |
-| [[Albino]]            | [[Mansion]] | Slave        | Varible  |      |     |
-| [[Alice]]             | [[Mansion]] | Slave        | A        |      |     |
-| [[Mealynn Dawnguard]] | [[Mansion]] | Slave        | F        |      |     |
-| [[Aaliyah]]           | [[Mansion]] | Slave        | DD       |      |     |
-| [[Calypso]]           | [[Mansion]] | Slave        | C        |      |     |
-| [[Thalia]]            | [[Mansion]] | Slave        | C        |      |     |
-| [[Katsumi]]           | [[Mansion]] | Slave        | DD       |      |     |
-| [[Anastasia]]         | [[Mansion]] | Slave        | C        |      |     |
+| Name                  | Location        | Relationship | Cup Size | Misc |
+| --------------------- | --------------- | ------------ | -------- | ---- |
+| [[Albino]]            | [[Mansion]]     | Slave        | Varible  |      |
+| [[Irinoria]]          | [[The Brothel]] | Slave        | Varible  |      |
+| [[Mealynn Dawnguard]] | [[Mansion]]     | Slave        | F        |      |
+| [[Katsumi]]           | [[Mansion]]     | Slave        | DD       |      |
+| [[Aaliyah]]           | [[Mansion]]     | Slave        | DD       |      |
+| [[Zesku]]             | [[The Brothel]] | Slave        | DD       |      |
+| [[Jester]]            | [[Mansion]]     | Slave        | D        |      |
+| [[Ryoko]]             | [[The Brothel]] | Slave        | D        |      |
+| [[Anastasia]]         | [[The Brothel]] | Slave        | C        |      |
+| [[Thalia]]            | [[Mansion]]     | Slave        | C        |      |
+| [[Calypso]]           | [[The Brothel]] | Slave        | C        |      |
+| [[Lavender-2]]        | [[Mansion]]     | Slave        | C        |      |
+| [[Elora Rose]]        | [[Mansion]]     | Slave        | C        |      |
+| [[Nola]]              | [[Mansion]]     | Slave        | B        |      |
+| [[Alice]]             | [[Mansion]]     | Slave        | A        |      |
