@@ -19,13 +19,3 @@
 
 
 
-SLAVES
-
-| Name           | Location    | Relationship | Cup Size | Misc |     |
-| -------------- | ----------- | ------------ | -------- | ---- | --- |
-| [[Irinoria]]   | [[Mansion]] | Slave        |          |      |     |
-| [[Nola]]       | [[Mansion]] | Slave        | B        |      |     |
-| [[Ryoko]]      | [[Mansion]] | Slave        |          |      |     |
-| [[Zesku]]      | [[Mansion]] | Slave        |          |      |     |
-| [[Elora Rose]] | [[Mansion]] | Slave        |          |      |     |
-| [[Jester]]     | [[Mansion]] | Slave        |          |      |     |
