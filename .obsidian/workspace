@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/NPC's/Slaves/Slave Registry.md",
+            "file": "Camerons Campaign/Locations/Castle Cliff.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camerons Campaign/NPC's/Slaves/Slave Registry.md",
+            "file": "Camerons Campaign/Locations/Castle Cliff.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camerons Campaign/NPC's/Slaves/Slave Registry.md",
+                "file": "Camerons Campaign/Locations/Castle Cliff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,9 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "67568c9f63ba8799",
+  "active": "f05502d33b8b2f31",
   "lastOpenFiles": [
+    "Camerons Campaign/Locations/Castle Cliff.md",
     "Camerons Campaign/NPC's/Slaves/Slave Registry.md",
     "Camerons Campaign/NPC's/Slaves/Irinoria.md",
     "Camerons Campaign/NPC's/Party/Jayla.md",
@@ -125,7 +126,6 @@
     "Camerons Campaign/NPC's/NPG Registery.md",
     "Camerons Campaign/NPC's/Slaves/Zesku.md",
     "Camerons Campaign/NPC's/Slaves/Elora Rose.md",
-    "Camerons Campaign/NPC's/Slaves/Mealynn Dawnguard.md",
-    "Camerons Campaign/NPC's/Slaves/Ryoko.md"
+    "Camerons Campaign/NPC's/Slaves/Mealynn Dawnguard.md"
   ]
 }
