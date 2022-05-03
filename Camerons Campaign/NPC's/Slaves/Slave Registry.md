@@ -17,11 +17,11 @@ SLAVES
 | [[Elora Rose]]        | [[Mansion]]     | Slave        | C        |                    |
 | [[Nola]]              | [[Mansion]]     | Slave        | B        |                    |
 | [[Alice]]             | [[Mansion]]     | Slave        | A        |                    |
-| [[Catherine Elene]]   | [[Mansion]]     | Slave        |          | Queen              |
-| [[Nanfeng Liu]]       | [[Mansion]]     | Slave        |          |                    |
-| [[Miki Narako]]       | [[The Brothel]] | Slave        |          |                    |
-| [[Raynala]]           | [[The Brothel]] | Slave        |          |                    |
-| [[Haru]]              | [[Mansion]]     | Slave        |          |                    |
-| [[Amethystos]]        | [[Mansion]]     | Slave        |          |                    |
-| [[Helene Messalina]]  | [[Mansion]]     | Slave        |          |                    |
-| [[Ishara Halakosh]]   | [[Mansion]]     | Slave        |          |                    |
+| [[Catherine Elene]]   | [[Mansion]]     | Slave        | D        | Queen              |
+| [[Nanfeng Liu]]       | [[Mansion]]     | Slave        | F        |                    |
+| [[Miki Narako]]       | [[The Brothel]] | Slave        | C        |                    |
+| [[Raynala]]           | [[The Brothel]] | Slave        | C        |                    |
+| [[Haru]]              | [[Mansion]]     | Slave        | C        |                    |
+| [[Amethystos]]        | [[Mansion]]     | Slave        | D        |                    |
+| [[Helene Messalina]]  | [[Mansion]]     | Slave        | B        |                    |
+| [[Ishara Halakosh]]   | [[Mansion]]     | Slave        | DD+      |                    |
