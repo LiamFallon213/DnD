@@ -12,7 +12,7 @@
 | [[Alexander]]         | [[Seaside]]                    | N/A          |                            |
 | [[Seaside Barkeep]]   | [[Seaside]]                    | N/A          |                            |
 | [[God of Dreams]]     | God                            | Neutral      |                            |
-| [[Oni Girl]]          | [[Castle Cliff]]               | Not met      |                            |
+| [[Keilane]]          | [[Castle Cliff]]               | Not met      |                            |
 | [[Jayla]]             | In party                       | Party Member |                            |
 | [[Jaylynn]]           | In party                       | Party Member |                            |
 | [[Mealynn Dawnguard]] | In party                       | Party Member |                            |
