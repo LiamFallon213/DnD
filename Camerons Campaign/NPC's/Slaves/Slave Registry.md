@@ -4,8 +4,8 @@ SLAVES
 | --------------------- | --------------- | ------------ | -------- | ------------------- | ----- | ------------------ |
 | [[Irinoria]]          | [[The Brothel]] | Slave        | Varible  |                     |       |                    |
 | [[Albino]]            | [[Mansion]]     | Slave        | Varible  |                     |       |                    |
-| [[Nanfeng Liu]]       | [[Mansion]]     | Slave        | F        | Oathbreaker Paladin | 8     |                    |
-| [[Mealynn Dawnguard]] | [[Mansion]]     | Slave        | F        |                     |       |                    |
+| [[Nanfeng Liu]]       | [[Mansion]]     | Slave        | F        |                     |       |                    |
+| [[Mealynn Dawnguard]] | [[Mansion]]     | Slave        | F        | Oathbreaker Paladin | 8     |                    |
 | [[Ishara Halakosh]]   | [[Mansion]]     | Slave        | DD+      |                     |       |                    |
 | [[Zesku]]             | [[The Brothel]] | Slave        | DD       |                     |       |                    |
 | [[Aaliyah]]           | [[Mansion]]     | Slave        | DD       |                     |       |                    |
@@ -25,7 +25,10 @@ SLAVES
 | [[Helene Messalina]]  | [[Mansion]]     | Slave        | B        |                     |       |                    |
 | [[Nola]]              | [[Mansion]]     | Slave        | B        | Warlock GOO         | 6     |                    |
 | [[Alice]]             | [[Mansion]]     | Slave        | A        |                     |       |                    |
-| [[Narfaris]]          |                 |              |          |                     |       |                    |
-| [[Neyo]]              |                 |              |          |                     |       |                    |
-| [[Yuki]]              |                 |              |          |                     |       |                    |
-|                       |                 |              |          |                     |       |                    |
+| [[Narfaris]]          |                 | Slave        |          |                     |       |                    |
+| [[Neyo]]              |                 | Slave        |          |                     |       |                    |
+| [[Yuki]]              |                 | Slave        |          |                     |       |                    |
+| [[Gemanara ]]         |                 | Slave        |          |                     |       |                    |
+| [[Xanthe Callum]]     |                 | Slave        |          |                     |       |                    |
+| [[Ali Kenac]]         |                 | Slave        |          |                     |       |                    |
+| [[Daylola]]           |                 | Slave        |          |                     |       |                    |
