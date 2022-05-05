@@ -25,3 +25,7 @@ SLAVES
 | [[Helene Messalina]]  | [[Mansion]]     | Slave        | B        |                     |       |                    |
 | [[Nola]]              | [[Mansion]]     | Slave        | B        | Warlock GOO         | 6     |                    |
 | [[Alice]]             | [[Mansion]]     | Slave        | A        |                     |       |                    |
+| [[Narfaris]]          |                 |              |          |                     |       |                    |
+| [[Neyo]]              |                 |              |          |                     |       |                    |
+| [[Yuki]]              |                 |              |          |                     |       |                    |
+|                       |                 |              |          |                     |       |                    |
