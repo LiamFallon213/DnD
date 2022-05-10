@@ -12,8 +12,7 @@
             "file": "DM-Campaign/PART 2/Random Idea Board.md",
             "mode": "source"
           }
-        },
-        "group": "204821e5dba23d22"
+        }
       },
       {
         "id": "f05502d33b8b2f31",
@@ -22,10 +21,9 @@
           "type": "markdown",
           "state": {
             "file": "DM-Campaign/PART 2/Random Idea Board.md",
-            "mode": "source"
+            "mode": "preview"
           }
-        },
-        "group": "204821e5dba23d22"
+        }
       }
     ],
     "direction": "vertical"
@@ -115,7 +113,7 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "67568c9f63ba8799",
+  "active": "f05502d33b8b2f31",
   "lastOpenFiles": [
     "DM-Campaign/PART 2/Random Idea Board.md",
     "DM-Campaign/PART 2/NPC's/Akuma.md",
